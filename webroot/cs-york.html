@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Streamgraph</title>
+<style>
+
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+button {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}
+
+</style>
+<link href="c3-b03125fa.css" media="screen" rel="stylesheet" type="text/css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+<script src="d3-3.5.6.min-77adef17.js" type="text/javascript"></script>
+<script src="c3.min-4c5bef8f.js" type="text/javascript"></script>
+<div id="chart" style="width: 2000px; height: 1000px;"></div>
+<script>
+function plotStackTimes(stats) {
+  var n = stats.length, // number of layers
+      m = 500, // number of samples per layer
+      stack = d3.layout.stack().offset("wiggle"),
+      layers0 = stack(d3.range(n).map(function() { return bumpLayer(m); }))
+
+  stats = stack(stats)
+
+  var width = 960,
+      height = 500;
+
+  var x = d3.scale.linear()
+      .domain([0, m - 1])
+      .range([0, width]);
+
+  var y = d3.scale.linear()
+      .domain([0, d3.max(stats, function(layer) { return d3.max(layer, function(d) { return d.y0 + d.y; }); })])
+      .range([height, 0]);
+
+  var color = d3.scale.linear()
+      .range(["green", "red"]);
+
+  var area = d3.svg.area()
+      .x(function(d) { return x(d.x); })
+      .y0(function(d) { return y(d.y0); })
+      .y1(function(d) { return y(d.y0 + d.y); });
+
+  var svg = d3.select("body").append("svg")
+      .attr("width", width)
+      .attr("height", height);
+
+  svg.selectAll("path")
+      .data(stats)
+    .enter().append("path")
+      .attr("d", area)
+      .style("fill", function() { return color(Math.random()); });
+
+  function transition() {
+    d3.selectAll("path")
+        .data(function() {
+          var d = layers1;
+          layers1 = stats;
+          return layers0 = d;
+        })
+      .transition()
+        .duration(2500)
+        .attr("d", area);
+  }
+
+  // Inspired by Lee Byron's test data generator.
+  function bumpLayer(n) {
+
+    function bump(a) {
+      var x = 1 / (.1 + Math.random()),
+          y = 2 * Math.random() - .5,
+          z = 10 / (.1 + Math.random());
+      for (var i = 0; i < n; i++) {
+        var w = (i / n - y) * z;
+        a[i] += x * Math.exp(-w * w);
+      }
+    }
+
+    var a = [], i;
+    for (i = 0; i < n; ++i) a[i] = 0;
+    for (i = 0; i < 5; ++i) bump(a);
+    return a.map(function(d, i) { return {x: i, y: (i == 150) ? d*2 : Math.max(0, d)}; });
+  }
+}
+
+var url = window.location.pathname
+var filename = url.substring(url.lastIndexOf('/')+1).replace(".html", "")
+jQuery.getJSON(filename + ".json", function (data) {
+  player_message_counts = data["player_message_counts"]
+  var nicks = ["bjs", "_46bit", "Taneb", "dpk", "barrucadu", "qlkzy"]
+  plottable_player_message_counts = []
+  plottable_player_message_counts.push(["x"].concat(data["all_yyyy_mm_dd"]))
+  $("#chart").css("width", "" + (4 * data["all_yyyy_mm_dd"].length) + "px")
+  for (var nick in player_message_counts) {
+    //var nick = nicks[i]
+    specific_player_message_counts = player_message_counts[nick]
+    specific_player_message_counts_n = []
+
+    var s = 0
+    for (var j in data["all_yyyy_mm_dd"]) {
+      var yyyy_mm_dd = data["all_yyyy_mm_dd"][j]
+      var count = 0
+      if (yyyy_mm_dd in specific_player_message_counts) {
+        count = specific_player_message_counts[yyyy_mm_dd]
+      }
+      /*if (specific_player_message_counts_n.length >= 3) {
+        specific_player_message_counts_n[specific_player_message_counts_n.length - 1] += count / 2
+        specific_player_message_counts_n[specific_player_message_counts_n.length - 2] += count / 3
+        specific_player_message_counts_n[specific_player_message_counts_n.length - 3] += count / 4
+      }*/
+      /*count = count / 14
+      if (specific_player_message_counts_n.length >= 14) {
+        specific_player_message_counts_n[specific_player_message_counts_n.length - 13].y += count
+        specific_player_message_counts_n[specific_player_message_counts_n.length - 12].y += count
+        specific_player_message_counts_n[specific_player_message_counts_n.length - 11].y += count
+        specific_player_message_counts_n[specific_player_message_counts_n.length - 10].y += count
+        specific_player_message_counts_n[specific_player_message_counts_n.length - 9].y += count
+        specific_player_message_counts_n[specific_player_message_counts_n.length - 8].y += count
+        specific_player_message_counts_n[specific_player_message_counts_n.length - 7].y += count
+        specific_player_message_counts_n[specific_player_message_counts_n.length - 6].y += count
+        specific_player_message_counts_n[specific_player_message_counts_n.length - 5].y += count
+        specific_player_message_counts_n[specific_player_message_counts_n.length - 4].y += count
+        specific_player_message_counts_n[specific_player_message_counts_n.length - 3].y += count
+        specific_player_message_counts_n[specific_player_message_counts_n.length - 2].y += count
+        specific_player_message_counts_n[specific_player_message_counts_n.length - 1].y += count
+      }
+      specific_player_message_counts_n.push({
+        x: specific_player_message_counts_n.length,
+        y: count
+      })*/
+      s += count
+      specific_player_message_counts_n.push(s)
+    }
+
+    if (s < 2500) {
+      continue
+    }
+
+    plottable_player_message_counts.push([nick].concat(specific_player_message_counts_n))
+  }
+
+  //plotStackTimes(plottable_player_message_counts)
+  //console.log(plottable_player_message_counts)
+
+  var chart = c3.generate({
+    data: {
+      x: 'x',
+        columns: plottable_player_message_counts /*[
+            ['data1', 30, 200, 100, 400, 150, 250],
+            ['data2', 50, 20, 10, 40, 15, 25],
+            ['data3', 500, 320, 210, 340, 215, 125]
+        ]*/
+    },
+    tooltip: {
+        grouped: true // Default true
+    },
+    point: {
+      show: false
+    },
+    axis : {
+        x : {
+            type : 'timeseries',
+            tick: {
+                fit: true,
+                format: "%e %b %y"
+            }
+        }
+    }
+  });
+
+})
+</script>

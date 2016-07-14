@@ -34,7 +34,7 @@ if __name__ == "__main__":
     all_yyyy_mm_dd.append(yyyy_mm_dd)
 
     f = open(args.in_json_directory + "/" + filepath)
-    message_counts_json = f.read()
+    message_counts_json = unicode(f.read(), errors='ignore')
     f.close()
 
     message_counts = json.loads(message_counts_json)

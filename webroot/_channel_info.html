@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <meta charset="utf-8">
-<title>Streamgraph</title>
+<title>Plot1</title>
 <style>
-
 body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
@@ -13,16 +12,28 @@ button {
   top: 10px;
 }
 
+#swap-plot {
+  position: absolute;
+  top: 30px;
+  left: 100px;
+  z-index: 100;
+  font-size: 20px;
+}
 </style>
 <link href="c3-b03125fa.css" media="screen" rel="stylesheet" type="text/css" />
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
 <script src="d3-3.5.6.min-77adef17.js" type="text/javascript"></script>
 <script src="c3.min-4c5bef8f.js" type="text/javascript"></script>
+<button id="swap-plot">Plot Daily Activity</button>
 <div id="chart" style="width: 2000px; height: 1000px;"></div>
 <script>
 var url = window.location.pathname
 var filename = url.substring(url.lastIndexOf('/')+1).replace(".html", "")
 jQuery.getJSON(filename + ".json", function (data) {
+  var all_yyyy_mm_dd = data["all_yyyy_mm_dd"]
+  var chart_width = Math.max(960, 4 * all_yyyy_mm_dd.length)
+  $("#chart").css("width", "" + chart_width + "px")
+
   player_message_totals = data["player_message_totals"]
   player_message_counts = data["player_message_counts"]
 
@@ -43,75 +54,71 @@ jQuery.getJSON(filename + ".json", function (data) {
   for (var i = 0; i < nicks_and_total_messages.length && i < 25; i++) {
     nicks_to_display.push(nicks_and_total_messages[i][0])
   }
-  console.log(nicks_to_display)
 
-  plottable_player_message_counts = []
+  var activity_classes = []
+  var sum_classes = []
+  var x_class = ["x"].concat(all_yyyy_mm_dd)
+  activity_classes.push(x_class)
+  sum_classes.push(x_class)
 
-  var chart_width = Math.max(960, 4 * data["all_yyyy_mm_dd"].length)
-  $("#chart").css("width", "" + chart_width + "px")
-
-  for (var nick in player_message_counts) {
-    //var nick = nicks[i]
-    specific_player_message_counts = player_message_counts[nick]
-    specific_player_message_counts_n = []
-
-    var s = 0
-    for (var j in data["all_yyyy_mm_dd"]) {
-      var yyyy_mm_dd = data["all_yyyy_mm_dd"][j]
-      var count = 0
-      if (yyyy_mm_dd in specific_player_message_counts) {
-        count = specific_player_message_counts[yyyy_mm_dd]
+  for (var i in nicks_to_display) {
+    var nick = nicks_to_display[i]
+    var nick_activity_class = [nick]
+    var nick_sum_class = [nick]
+    var nick_message_counts = player_message_counts[nick]
+    var acc = 0
+    for (var j in all_yyyy_mm_dd) {
+      var yyyy_mm_dd = all_yyyy_mm_dd[j]
+      count = 0
+      if (yyyy_mm_dd in nick_message_counts) {
+        count = nick_message_counts[yyyy_mm_dd]
       }
-      s += count
-      specific_player_message_counts_n.push(s)
+      acc += count
+      nick_activity_class.push(count)
+      nick_sum_class.push(acc)
     }
-
-    plottable_player_message_counts.push([nick].concat(specific_player_message_counts_n))
+    activity_classes.push(nick_activity_class)
+    sum_classes.push(nick_sum_class)
   }
-
-  plottable_player_message_counts.sort(function (a, b) {
-    var sa = a[a.length - 1],
-        sb = b[b.length - 1]
-    if (sa < sb) {
-      return 1
-    }
-    if (sa > sb) {
-      return -1
-    }
-    return 0
-  })
-
-  plottable_player_message_counts = plottable_player_message_counts.slice(0, 25)
-  plottable_player_message_counts.push(["x"].concat(data["all_yyyy_mm_dd"]))
-
-  //plotStackTimes(plottable_player_message_counts)
-  //console.log(plottable_player_message_counts)
 
   var chart = c3.generate({
     data: {
       x: 'x',
-        columns: plottable_player_message_counts /*[
-            ['data1', 30, 200, 100, 400, 150, 250],
-            ['data2', 50, 20, 10, 40, 15, 25],
-            ['data3', 500, 320, 210, 340, 215, 125]
-        ]*/
+      columns: sum_classes
     },
     tooltip: {
-        grouped: true // Default true
+      grouped: true
     },
     point: {
       show: false
     },
-    axis : {
-        x : {
-            type : 'timeseries',
-            tick: {
-                fit: true,
-                format: "%e %b %y"
-            }
+    axis: {
+      x: {
+        type : 'timeseries',
+        tick: {
+          fit: true,
+          format: "%e %b %y"
         }
+      },
+      y: {
+        min: 0,
+        padding: 0
+      }
     }
   });
+
+  $("#swap-plot").on("click", function () {
+    chart.load({
+      unload: true,
+      columns: activity_classes
+    })
+    //$("#swap-plot").text($("#swap-plot").attr("data-alt-text"))
+  })
+
+  /*setTimeout(function () {
+    chart.unload({
+        ids: 'data1'
+    });*/
 
 })
 </script>

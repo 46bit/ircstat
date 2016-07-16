@@ -23,6 +23,7 @@ if __name__ == "__main__":
   argp.add_argument("-o", "--out_json", nargs="?", type=argparse.FileType("w"), default="-", help="Path to out .json summary file.")
   args = argp.parse_args()
 
+  player_message_totals = {}
   player_message_counts = {}
   all_yyyy_mm_dd = []
   dirlist = os.listdir(args.in_json_directory)
@@ -39,13 +40,17 @@ if __name__ == "__main__":
 
     message_counts = json.loads(message_counts_json)
     for nick in message_counts["message_counts"]:
+      if nick not in player_message_totals:
+        player_message_totals[nick] = 0
       if nick not in player_message_counts:
         player_message_counts[nick] = {}
       if yyyy_mm_dd not in player_message_counts[nick]:
         player_message_counts[nick][yyyy_mm_dd] = 0
       player_message_counts[nick][yyyy_mm_dd] += message_counts["message_counts"][nick]
+      player_message_totals[nick] += message_counts["message_counts"][nick]
 
   args.out_json.write(json.dumps({
+    "player_message_totals": player_message_totals,
     "player_message_counts": player_message_counts,
     "all_yyyy_mm_dd": sorted(all_yyyy_mm_dd)
   }, indent=2))

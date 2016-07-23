@@ -23,8 +23,22 @@ if __name__ == "__main__":
   argp.add_argument("-o", "--out_json", nargs="?", type=argparse.FileType("w"), default="-", help="Path to out .json summary file.")
   args = argp.parse_args()
 
+  dedupe = {}
+  dedupe_path = args.in_json_directory + "/dedupe.txt"
+  if os.path.isfile(dedupe_path):
+    f = open(dedupe_path)
+    print "Dedupes:"
+    for l in f:
+      nicks = l.rstrip('\n').split(" ")
+      print "  ", nicks[0], "<--", nicks[1:]
+      if len(nicks) > 0:
+        for nick in nicks[1:]:
+          dedupe[nick] = nicks[0]
+    f.close()
+
   player_message_totals = {}
   player_message_counts = {}
+  player_message_activity = {}
   all_yyyy_mm_dd = []
   dirlist = os.listdir(args.in_json_directory)
   for filepath in sorted(dirlist, reverse=True):
@@ -40,14 +54,20 @@ if __name__ == "__main__":
 
     message_counts = json.loads(message_counts_json)
     for nick in message_counts["message_counts"]:
-      if nick not in player_message_totals:
-        player_message_totals[nick] = 0
-      if nick not in player_message_counts:
-        player_message_counts[nick] = {}
-      if yyyy_mm_dd not in player_message_counts[nick]:
-        player_message_counts[nick][yyyy_mm_dd] = 0
-      player_message_counts[nick][yyyy_mm_dd] += message_counts["message_counts"][nick]
-      player_message_totals[nick] += message_counts["message_counts"][nick]
+      deduped_nick = nick
+      if nick in dedupe:
+        deduped_nick = dedupe[nick]
+
+      if deduped_nick not in player_message_totals:
+        player_message_totals[deduped_nick] = 0
+      if deduped_nick not in player_message_activity:
+        player_message_activity[deduped_nick] = 0
+      if deduped_nick not in player_message_counts:
+        player_message_counts[deduped_nick] = {}
+      if yyyy_mm_dd not in player_message_counts[deduped_nick]:
+        player_message_counts[deduped_nick][yyyy_mm_dd] = 0
+      player_message_counts[deduped_nick][yyyy_mm_dd] += message_counts["message_counts"][nick]
+      player_message_totals[deduped_nick] += message_counts["message_counts"][nick]
 
   args.out_json.write(json.dumps({
     "player_message_totals": player_message_totals,

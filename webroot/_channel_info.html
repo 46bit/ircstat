@@ -81,6 +81,45 @@ jQuery.getJSON(filename + ".json", function (data) {
     sum_classes.push(nick_sum_class)
   }
 
+  var channel_total_class = [filename]
+  var channel_activity_class = [filename]
+  var channel_total_acc = 0
+  for (var j in all_yyyy_mm_dd) {
+    var yyyy_mm_dd = all_yyyy_mm_dd[j]
+    var yyyy_mm_dd_count = 0
+    for (var nick in player_message_counts) {
+      var nick_message_counts = player_message_counts[nick]
+      if (yyyy_mm_dd in nick_message_counts) {
+        yyyy_mm_dd_count += nick_message_counts[yyyy_mm_dd]
+      }
+    }
+    channel_activity_class.push(yyyy_mm_dd_count)
+    channel_total_acc += yyyy_mm_dd_count
+    channel_total_class.push(channel_total_acc)
+  }
+  sum_classes.push(channel_total_class)
+  activity_classes.push(channel_activity_class)
+
+  for (var i in nicks_to_display) {
+    var nick = nicks_to_display[i]
+    var nick_activity_class = [nick]
+    var nick_sum_class = [nick]
+    var nick_message_counts = player_message_counts[nick]
+    var acc = 0
+    for (var j in all_yyyy_mm_dd) {
+      var yyyy_mm_dd = all_yyyy_mm_dd[j]
+      count = 0
+      if (yyyy_mm_dd in nick_message_counts) {
+        count = nick_message_counts[yyyy_mm_dd]
+      }
+      acc += count
+      nick_activity_class.push(count)
+      nick_sum_class.push(acc)
+    }
+    activity_classes.push(nick_activity_class)
+    sum_classes.push(nick_sum_class)
+  }
+
   var chart = c3.generate({
     data: {
       x: 'x',

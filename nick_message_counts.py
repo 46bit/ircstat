@@ -21,20 +21,19 @@ if __name__ == "__main__":
   argp = argparse.ArgumentParser(description="")
   argp.add_argument("-i", "--in_json_directory", help="Path to directory of input .json files.")
   argp.add_argument("-o", "--out_json", nargs="?", type=argparse.FileType("w"), default="-", help="Path to out .json summary file.")
+  argp.add_argument("-d", "--dedupe", required=False, nargs="?", type=argparse.FileType("r"), default="-", help="Path to lines of MAINNICK ALIAS1 ALIAS2 ...")
   args = argp.parse_args()
 
   dedupe = {}
-  dedupe_path = args.in_json_directory + "/dedupe.txt"
-  if os.path.isfile(dedupe_path):
-    f = open(dedupe_path)
+  #dedupe_path = args.in_json_directory + "/dedupe.txt"
+  if args.dedupe:
     print "Dedupes:"
-    for l in f:
+    for l in args.dedupe:
       nicks = l.rstrip('\n').split(" ")
       print "  ", nicks[0], "<--", nicks[1:]
       if len(nicks) > 0:
         for nick in nicks[1:]:
           dedupe[nick] = nicks[0]
-    f.close()
 
   player_message_totals = {}
   player_message_counts = {}

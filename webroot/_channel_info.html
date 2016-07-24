@@ -97,8 +97,10 @@ jQuery.getJSON(filename + ".json", function (data) {
     channel_total_acc += yyyy_mm_dd_count
     channel_total_class.push(channel_total_acc)
   }
-  sum_classes.push(channel_total_class)
-  activity_classes.push(channel_activity_class)
+  // @TODO: Make channel totals toggleable. They tend to be 6x the 25-most-active users,
+  // which eliminates a meaningful look at individuals.
+  //sum_classes.push(channel_total_class)
+  //activity_classes.push(channel_activity_class)
 
   for (var i in nicks_to_display) {
     var nick = nicks_to_display[i]

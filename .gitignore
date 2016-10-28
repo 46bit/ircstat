@@ -1,3 +1,4 @@
 znc-logs/*
 webroot/*.html
 webroot/*.json
+*.log

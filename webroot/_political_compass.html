@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Plot1</title>
+<style>
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+button {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}
+
+#swap-plot {
+  position: absolute;
+  top: 30px;
+  left: 100px;
+  z-index: 100;
+  font-size: 20px;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.dot {
+  stroke: #000;
+}
+
+.tooltip {
+  position: absolute;
+  pointer-events: none;
+  background: white;
+  display: inline;
+  padding: 8px 11px;
+  font-size: 13px;
+}
+</style>
+<link href="c3-b03125fa.css" media="screen" rel="stylesheet" type="text/css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+<script src="d3-3.5.6.min-77adef17.js" type="text/javascript"></script>
+<script src="c3.min-4c5bef8f.js" type="text/javascript"></script>
+<div id="chart" style="width: 418px; height: 373px; background-image: url(political-compass-blank.png); position: relative;"></div>
+<script>
+var url = window.location.pathname
+var filename = url.substring(url.lastIndexOf('/')+1).replace(".html", "")
+jQuery.getJSON(filename + "-political-compass.json", function (data) {
+  var political_compass_results = data["political_compass_results"]
+  var data = []
+  for (nick in political_compass_results) {
+    console.log(nick)
+    for (i in political_compass_results[nick]) {
+      var political_compass_result = political_compass_results[nick][i]
+      data.push({
+        "title": nick + " (" + i + ")",
+        "left_or_right": political_compass_result["left_or_right"],
+        "libertarian_or_authoritarian": political_compass_result["libertarian_or_authoritarian"]
+      })
+    }
+  }
+
+  var svg = d3.select("#chart").append("svg")
+    .attr("width", 300)
+    .attr("height", 300)
+  .append("g")
+    .attr("transform", "translate(56,30)");
+
+  var tooltip = d3.select("#chart").append("div")
+    .attr("class", "tooltip")
+    .style("opacity", 0);
+
+  // setup fill color
+  var cValue = function(d) { return d["title"];},
+      color = d3.scale.category20();
+
+  // draw dots
+  svg.selectAll(".dot")
+      .data(data)
+    .enter().append("circle")
+      .attr("class", "dot")
+      .attr("r", 3.5)
+      .attr("cx", function(d) {
+        return d["left_or_right"] * 15 + 150
+      })
+      .attr("cy", function(d) {
+        return -d["libertarian_or_authoritarian"] * 15 + 150
+      })
+      .style("fill", function(d) { return color(cValue(d));})
+      .on("mouseover", function(d) {
+          tooltip.transition()
+               .duration(200)
+               .style("opacity", .9);
+          tooltip
+            .html(d["title"])
+            .style("left", (d3.event.pageX + 5) + "px")
+            .style("top", (d3.event.pageY - 28) + "px");;
+      })
+      .on("mouseout", function(d) {
+          tooltip.transition()
+               .duration(500)
+               .style("opacity", 0);
+      });
+})
+</script>

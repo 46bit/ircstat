@@ -55,8 +55,9 @@ jQuery.getJSON(filename + "-political-compass.json", function (data) {
     console.log(nick)
     for (i in political_compass_results[nick]) {
       var political_compass_result = political_compass_results[nick][i]
+      var indx = (political_compass_results[nick].length > 1) ? " #" + i : "";
       data.push({
-        "title": nick + " (" + i + ")",
+        "title": nick + indx,
         "left_or_right": political_compass_result["left_or_right"],
         "libertarian_or_authoritarian": political_compass_result["libertarian_or_authoritarian"]
       })

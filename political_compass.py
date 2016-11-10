@@ -104,7 +104,7 @@ if __name__ == "__main__":
         #print(log_line, pc_match)
         pc_result = PoliticalCompassResult(nick=log_item.nick, left_or_right=float(pc_match.group(1)), libertarian_or_authoritarian=float(pc_match.group(2)))
         #pc_results.append(pc_result.__dict__)
-        pc_results[nick].append(pc_result.__dict__)
+        pc_results[nick].append(pc_result._asdict())
 
   #print(json.dumps(pc_results))
   # Output to -o|--summary_json_out JSON file.

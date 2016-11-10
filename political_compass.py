@@ -5,13 +5,14 @@
 Should work under Python 2.7+ and Python 3.
 
 USAGE:
-  python summarise_channel_logs.py -i ../path/to/logs/of/#cs-york -o cs-york-summary.json
+  python political_compass.py -i ../path/to/logs/of/#cs-york -o cs-york-political-compass.json
 '''
 
 import os, sys, argparse, re, json
 from collections import namedtuple, defaultdict
 
 LogItem = namedtuple("LogItem", ["type", "nick", "text"])
+PoliticalCompassResult = namedtuple("PoliticalCompassResult", ["nick", "left_or_right", "libertarian_or_authoritarian"])
 
 # Parse a line of the logs.
 def parse_log_line(line):
@@ -21,7 +22,7 @@ def parse_log_line(line):
   time_parse = re.match("\[([0-9]{2}):([0-9]{2}):([0-9]{2})\] (.*)$", line)
   if time_parse is None: return False
   time_parse = time_parse.groups()
-  hh_mm_ss = time_parse[0:3]
+  hh_mm_ss = map(int, time_parse[0:3])
   # Now to parse REST_OF_LINE
   rest = time_parse[3]
 
@@ -79,12 +80,7 @@ if __name__ == "__main__":
   logfiles = [filename for filename in files if filename.endswith(".log")]
   logfiles = sorted(logfiles)
 
-  # Find the earliest and latest logs.
-  if len(logfiles) > 0:
-    earliest_date = logfiles[0].replace(".log", "")
-    latest_date = logfiles[-1].replace(".log", "")
-  else:
-    earliest_date = latest_date = None
+  pc_results = defaultdict(list)
 
   # Count messages by nick in all logfiles.
   for logfile in logfiles:
@@ -101,14 +97,17 @@ if __name__ == "__main__":
       log_item = parse_log_line(log_line)
       if not log_item:
         continue
+      nick = dedupe[log_item.nick] if log_item.nick in dedupe else log_item.nick
 
-      messages_all_time[log_item.nick] += 1
-      messages_by_day[date][log_item.nick] += 1
+      pc_match = re.match(r"^https://www.politicalcompass.org.+ec=([0-9-\.]+)&soc=([0-9-\.]+)", log_item.text)
+      if pc_match:
+        #print(log_line, pc_match)
+        pc_result = PoliticalCompassResult(nick=log_item.nick, left_or_right=float(pc_match.group(1)), libertarian_or_authoritarian=float(pc_match.group(2)))
+        #pc_results.append(pc_result.__dict__)
+        pc_results[nick].append(pc_result.__dict__)
 
+  #print(json.dumps(pc_results))
   # Output to -o|--summary_json_out JSON file.
   args.summary_json_out.write(json.dumps({
-    "earliest_date": earliest_date,
-    "latest_date": latest_date,
-    "messages_all_time": messages_all_time,
-    "messages_by_day": messages_by_day
+    "political_compass_results": pc_results
   }, indent=2))

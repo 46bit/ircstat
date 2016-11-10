@@ -79,13 +79,6 @@ if __name__ == "__main__":
   logfiles = [filename for filename in files if filename.endswith(".log")]
   logfiles = sorted(logfiles)
 
-  # Find the earliest and latest logs.
-  if len(logfiles) > 0:
-    earliest_date = logfiles[0].replace(".log", "")
-    latest_date = logfiles[-1].replace(".log", "")
-  else:
-    earliest_date = latest_date = None
-
   # Count messages by nick in all logfiles.
   for logfile in logfiles:
     # Recognise patterns like
@@ -102,13 +95,4 @@ if __name__ == "__main__":
       if not log_item:
         continue
 
-      messages_all_time[log_item.nick] += 1
-      messages_by_day[date][log_item.nick] += 1
-
-  # Output to -o|--summary_json_out JSON file.
-  args.summary_json_out.write(json.dumps({
-    "earliest_date": earliest_date,
-    "latest_date": latest_date,
-    "messages_all_time": messages_all_time,
-    "messages_by_day": messages_by_day
-  }, indent=2))
+      sys.stdout.write("%s " % log_item.text)

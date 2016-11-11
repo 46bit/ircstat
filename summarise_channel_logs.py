@@ -61,13 +61,14 @@ if __name__ == "__main__":
   # Parse -d|--dedupe_file dedupe file if provided.
   dedupe = {}
   if args.dedupe_file:
-    print("Dedupes:")
+    sys.stderr.write("Dedupes:\n")
     for l in args.dedupe_file:
       nicks = l.rstrip('\n').split(" ")
-      print("  ", nicks[0], "<--", nicks[1:])
+      sys.stderr.write("  %s <-- %s\n" % (nicks[0], nicks[1:]))
       if len(nicks) > 0:
         for nick in nicks[1:]:
           dedupe[nick] = nicks[0]
+    sys.stderr.flush()
 
   # messages_all_time[NICK] is an int
   messages_all_time = defaultdict(int)
@@ -88,6 +89,9 @@ if __name__ == "__main__":
 
   # Count messages by nick in all logfiles.
   for logfile in logfiles:
+    sys.stderr.write(".")
+    sys.stderr.flush()
+
     # Recognise patterns like
     #  YYYY-MM-DD
     # in YYYY-MM-DD.log
@@ -102,8 +106,21 @@ if __name__ == "__main__":
       if not log_item:
         continue
 
-      messages_all_time[log_item.nick] += 1
-      messages_by_day[date][log_item.nick] += 1
+      deduped_nick = dedupe[log_item.nick] if log_item.nick in dedupe else log_item.nick
+
+      messages_all_time[deduped_nick] += 1
+      messages_by_day[date][deduped_nick] += 1
+  sys.stderr.write("\n")
+
+  drop_nicks = []
+  for nick in messages_all_time:
+    if messages_all_time[nick] < 30:
+      drop_nicks.append(nick)
+  for drop_nick in drop_nicks:
+    del messages_all_time[drop_nick]
+    for date in messages_by_day:
+      if drop_nick in messages_by_day[date]:
+        del messages_by_day[date][drop_nick]
 
   # Output to -o|--summary_json_out JSON file.
   args.summary_json_out.write(json.dumps({

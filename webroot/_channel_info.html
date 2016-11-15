@@ -54,36 +54,12 @@ jQuery.getJSON(filename + ".json", function (data) {
     _.forEach(data["messages_by_day"], function (nicks_message_counts, date) {
       var activity = (nick in nicks_message_counts) ? nicks_message_counts[nick] : 0
       sum += activity
-      if (activity == 0) {
-        nick_sum_class.push(null)
-        nick_activity_class.push(null)
-      } else {
-        nick_sum_class.push(sum)
-        nick_activity_class.push(activity)
-      }
+      nick_sum_class.push(sum)
+      nick_activity_class.push(activity)
     })
     sum_classes.push(nick_sum_class)
     activity_classes.push(nick_activity_class)
   })
-
-  // var channel_total_class = [filename]
-  // var channel_activity_class = [filename]
-  // var channel_total_acc = 0
-  // for (var j in all_yyyy_mm_dd) {
-  //   var yyyy_mm_dd = all_yyyy_mm_dd[j]
-  //   var yyyy_mm_dd_count = 0
-  //   for (var nick in player_message_counts) {
-  //     var nick_message_counts = player_message_counts[nick]
-  //     if (yyyy_mm_dd in nick_message_counts) {
-  //       yyyy_mm_dd_count += nick_message_counts[yyyy_mm_dd]
-  //     }
-  //   }
-  //   channel_activity_class.push(yyyy_mm_dd_count)
-  //   channel_total_acc += yyyy_mm_dd_count
-  //   channel_total_class.push(channel_total_acc)
-  // }
-  //sum_classes.push(channel_total_class)
-  //activity_classes.push(channel_activity_class)
 
   var chart = c3.generate({
     data: {
@@ -109,9 +85,6 @@ jQuery.getJSON(filename + ".json", function (data) {
         min: 0,
         padding: 0
       }
-    },
-    line: {
-      connectNull: true
     }
   });
 
@@ -122,8 +95,6 @@ jQuery.getJSON(filename + ".json", function (data) {
     })
     $("#swap-plot").text($("#swap-plot").attr("data-alt-text"))
   })
-  //<button class="swap-plot" id="swap-plot-activity">Plot Daily Activity</button>
-  //<button class="swap-plot" id="swap-plot-sum" class="display: none;">Plot Messages Over Time</button>
 
   $("#swap-plot-activity").on("click", function () {
     chart.load({

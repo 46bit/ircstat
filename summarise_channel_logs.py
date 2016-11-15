@@ -95,7 +95,10 @@ if __name__ == "__main__":
     # Recognise patterns like
     #  YYYY-MM-DD
     # in YYYY-MM-DD.log
-    date = re.match("([^\./]*)", logfile).groups()[0]
+    date_match = re.match("([0-9]{4}-[0-9]{2}-[0-9]{2})", logfile)
+    if date_match is None:
+      continue
+    date = date_match.groups()[0]
 
     f = open(args.channel_log_dir + "/" + logfile, "rb")
     log_text = f.read().decode('utf8', errors='ignore') #unicode(f.read(), errors='ignore')

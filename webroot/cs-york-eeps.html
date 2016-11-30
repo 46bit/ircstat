@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Plot1</title>
+<style>
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+button {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}
+
+.swap-plot {
+  position: absolute;
+  top: 30px;
+  left: 100px;
+  z-index: 100;
+  font-size: 20px;
+}
+</style>
+<link href="c3-b03125fa.css" media="screen" rel="stylesheet" type="text/css" />
+<script src="https://cdn.jsdelivr.net/lodash/4.16.6/lodash.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+<script src="d3-3.5.6.min-77adef17.js" type="text/javascript"></script>
+<script src="c3.min-4c5bef8f.js" type="text/javascript"></script>
+<button class="swap-plot" id="swap-plot-activity">Plot Daily Activity</button>
+<button class="swap-plot" id="swap-plot-sum" style="display: none;">Plot Eeps Over Time</button>
+<div id="chart" style="width: 2000px; height: 1000px;"></div>
+<script>
+var url = window.location.pathname
+var filename = url.substring(url.lastIndexOf('/')+1).replace(".html", "")
+jQuery.getJSON(filename + ".json", function (data) {
+  var chart_width = Math.max(960, 4 * data["eeps_by_day"].length)
+  $("#chart").css("width", "" + chart_width + "px")
+
+  // Prepare X-axis timeseries.
+  var x_class = ["x"].concat(_.keys(data["eeps_by_day"]))
+  var sum_classes = [x_class]
+  var activity_classes = [x_class]
+
+  // Convert {"nick": 423434, ...} to [["nick", 423434], ...].
+  var messages_all_time_pairs = _.toPairs(data["eeps_all_time"])
+  // Sort pairs ascending by message totals.
+  var sorted_messages_all_time = _.sortBy(messages_all_time_pairs, _.last)
+  // Take nicks with highest message totals.
+  var nicks_to_display = _.map(sorted_messages_all_time, _.first)
+
+  _.forEach(nicks_to_display, function (nick) {
+    var nick_sum_class = [nick]
+    var nick_activity_class = [nick]
+    var sum = 0
+    _.forEach(data["eeps_by_day"], function (nicks_message_counts, date) {
+      console.log(date)
+      var activity = (nick in nicks_message_counts) ? nicks_message_counts[nick] : 0
+      sum += activity
+      nick_sum_class.push(sum)
+      nick_activity_class.push(activity)
+    })
+    sum_classes.push(nick_sum_class)
+    activity_classes.push(nick_activity_class)
+  })
+
+  var chart = c3.generate({
+    data: {
+      x: 'x',
+      columns: sum_classes
+    },
+    tooltip: {
+      grouped: true
+    },
+    point: {
+      show: false
+    },
+    axis: {
+      x: {
+        type : 'timeseries',
+        tick: {
+          fit: true,
+          // 2016-Sep-11 is more trivially usable to the general public than 2016-09-11.
+          format: "%Y-%b-%d"
+        }
+      },
+      y: {
+        min: 0,
+        padding: 0
+      }
+    }
+  });
+
+  $("#swap-plot").on("click", function () {
+    chart.load({
+      unload: true,
+      columns: activity_classes
+    })
+    //$("#swap-plot").text($("#swap-plot").attr("data-alt-text"))
+  })
+
+  $("#swap-plot-activity").on("click", function () {
+    chart.load({
+      unload: true,
+      columns: activity_classes
+    })
+    $(this).hide()
+    $("#swap-plot-sum").show()
+  })
+
+  $("#swap-plot-sum").on("click", function () {
+    chart.load({
+      unload: true,
+      columns: sum_classes
+    })
+    $(this).hide()
+    $("#swap-plot-activity").show()
+  })
+
+  /*setTimeout(function () {
+    chart.unload({
+        ids: 'data1'
+    });*/
+
+})
+</script>

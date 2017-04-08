@@ -36,7 +36,7 @@ jQuery.getJSON(filename + ".json", function (data) {
   $("#chart").css("width", "" + chart_width + "px")
 
   // Prepare X-axis timeseries.
-  var x_class = ["x"].concat(_.keys(data["eeps_by_day"]))
+  var x_class = ["x"].concat(_.sortBy(_.keys(data["eeps_by_day"]), function(a){return a;}))
   var sum_classes = [x_class]
   var activity_classes = [x_class]
 
@@ -45,22 +45,30 @@ jQuery.getJSON(filename + ".json", function (data) {
   // Sort pairs ascending by message totals.
   var sorted_messages_all_time = _.sortBy(messages_all_time_pairs, _.last)
   // Take nicks with highest message totals.
-  var nicks_to_display = _.map(sorted_messages_all_time, _.first)
+  var nicks_to_display = _.map(_.takeRight(sorted_messages_all_time, 25), _.first)
 
+  var ordered_eeps_by_day = _.sortBy(_.toPairs(data["eeps_by_day"]), _.first)
   _.forEach(nicks_to_display, function (nick) {
     var nick_sum_class = [nick]
     var nick_activity_class = [nick]
     var sum = 0
-    _.forEach(data["eeps_by_day"], function (nicks_message_counts, date) {
-      console.log(date)
+    //console.log(_.sortBy(_.toPairs(data["eeps_by_day"]), _.first))
+
+    _.forEach(ordered_eeps_by_day, function (a) {
+      var date = a[0]
+      var nicks_message_counts = a[1]
       var activity = (nick in nicks_message_counts) ? nicks_message_counts[nick] : 0
+      //console.log(activity)
       sum += activity
       nick_sum_class.push(sum)
       nick_activity_class.push(activity)
+      //console.log(date, nick, nicks_message_counts, sum)
     })
+    //console.log(nick, nick_activity_class)
     sum_classes.push(nick_sum_class)
     activity_classes.push(nick_activity_class)
   })
+  //console.log(activity_classes)
 
   var chart = c3.generate({
     data: {
@@ -77,10 +85,10 @@ jQuery.getJSON(filename + ".json", function (data) {
       x: {
         type : 'timeseries',
         tick: {
-          fit: true,
           // 2016-Sep-11 is more trivially usable to the general public than 2016-09-11.
           format: "%Y-%b-%d"
-        }
+        },
+        min: "2016-09-25"
       },
       y: {
         min: 0,

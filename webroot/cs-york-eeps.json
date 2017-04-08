@@ -1,5203 +1,644 @@
 {
   "eeps_by_day": {
-    "2015-11-19": {
-      "hayashi": 2, 
+    "2015-05-07": {
       "LordAro": 1
     }, 
-    "2015-11-18": {
-      "jameseb": 1, 
-      "barrucadu": 1, 
-      "icydoge": 1, 
-      "Taneb": 1, 
-      "Helzibah": 1, 
-      "hayashi": 4, 
+    "2015-05-06": {
       "LordAro": 1
     }, 
     "2015-11-11": {
-      "barrucadu": 1, 
-      "icydoge": 1, 
-      "Taneb": 1, 
-      "_46": 3, 
-      "hayashi": 1, 
-      "Mathison": 1, 
-      "liamfraser": 1, 
-      "Alan": 2
-    }, 
-    "2015-11-10": {
-      "Rryy": 1, 
-      "PfoD": 1, 
-      "Alan": 1, 
-      "hayashi": 2, 
-      "Alfie275": 4, 
-      "LordAro": 1, 
-      "AlfBot275": 1
-    }, 
-    "2015-11-13": {
-      "LordAro": 1, 
-      "hayashi": 4, 
-      "SunFrame": 1, 
-      "marilla": 1, 
-      "Taneb": 1
-    }, 
-    "2015-11-15": {
-      "barrucadu": 2, 
-      "hayashi": 1, 
-      "Taneb": 1, 
-      "_46": 2, 
-      "Helzibah": 1
-    }, 
-    "2015-11-14": {
       "barrucadu": 1
     }, 
-    "2015-11-17": {
-      "Rryy": 2, 
-      "barrucadu": 1, 
-      "Taneb": 2, 
-      "_46": 1, 
-      "hayashi": 1, 
-      "LordAro": 1, 
-      "AlfBot275": 1
-    }, 
-    "2015-11-16": {
-      "barrucadu": 1, 
-      "Taneb": 1, 
-      "hayashi": 2, 
-      "bjs": 1, 
-      "LordAro": 2, 
-      "nitia": 1
-    }, 
-    "2015-09-10": {
-      "Speed`": 1, 
-      "_46": 1, 
-      "hayashi": 2, 
-      "Mathison": 1, 
-      "bjs": 1, 
-      "marilla": 1
-    }, 
-    "2015-09-11": {
-      "icydoge": 1, 
-      "Taneb": 2, 
-      "_46": 3, 
-      "entity": 1, 
-      "hayashi": 4, 
-      "Alfie275": 1, 
-      "LordAro": 1, 
-      "nitia": 1
-    }, 
-    "2015-09-12": {
-      "LordAro": 1, 
-      "hayashi": 1, 
-      "frogba": 1, 
-      "bjs": 1
-    }, 
-    "2015-09-13": {
-      "bjs": 1, 
-      "laser`": 1, 
-      "Alan": 1
-    }, 
-    "2015-09-14": {
-      "barrucadu": 1, 
-      "Helzibah": 3, 
-      "Alan": 5, 
-      "hayashi": 1, 
-      "_46": 1, 
-      "LordAro": 1
-    }, 
-    "2015-09-15": {
-      "barrucadu": 2, 
-      "sweetbun": 1, 
-      "Helzibah": 2
-    }, 
-    "2015-09-16": {
-      "LloydW": 1, 
-      "barrucadu": 1, 
-      "Helzibah": 1, 
-      "Alan": 2, 
-      "Taneb": 1, 
-      "hayashi": 1, 
-      "liamfraser": 1, 
-      "_46": 1, 
-      "Alfie275": 1
-    }, 
-    "2015-09-17": {
-      "barrucadu": 3, 
-      "icydoge": 1, 
-      "Alan": 2, 
-      "hayashi": 6, 
-      "Mathison": 1, 
-      "sweetbun": 2, 
-      "liamfraser": 1, 
-      "DinCahill": 2
-    }, 
-    "2015-09-18": {
-      "barrucadu": 4, 
-      "Alan": 1, 
-      "hayashi": 7, 
-      "liamfraser": 1, 
-      "LordAro": 1, 
-      "bjs": 2
-    }, 
-    "2015-09-19": {
-      "jameseb": 1
-    }, 
-    "2015-07-09": {
-      "LordAro": 2, 
-      "bjs": 1, 
-      "sam_w": 1, 
-      "dpk": 2
-    }, 
-    "2015-07-08": {
-      "hayashi": 1, 
-      "_46": 2
-    }, 
-    "2016-03-29": {
-      "hayashi": 2, 
-      "barrucadu": 1, 
-      "_46": 1, 
-      "laser`": 1, 
-      "jameseb": 1
-    }, 
-    "2015-07-05": {
-      "hayashi": 2, 
-      "barrucadu": 1, 
-      "_46": 3
-    }, 
-    "2015-07-04": {
-      "LordAro": 1, 
-      "icydoge": 1, 
-      "sweetbun": 1, 
-      "hayashi": 2, 
-      "_46": 1
-    }, 
-    "2015-07-07": {
-      "hayashi": 1, 
-      "Mathison": 1, 
-      "Speed`": 1
-    }, 
-    "2015-07-06": {
-      "hayashi": 3, 
-      "DinCahill": 1, 
-      "laser`": 1
-    }, 
-    "2015-07-01": {
-      "Speed`": 1, 
-      "Alan": 2, 
-      "hayashi": 3, 
-      "bjs": 3, 
-      "_46": 2, 
-      "LordAro": 1, 
-      "marilla": 1
-    }, 
-    "2015-07-03": {
+    "2015-11-10": {
       "hayashi": 1
     }, 
-    "2015-07-02": {
-      "hayashi": 1, 
-      "nitia": 1, 
+    "2016-01-06": {
+      "LordAro": 1
+    }, 
+    "2016-01-07": {
       "Alan": 1
     }, 
-    "2015-12-14": {
-      "Speed`": 1, 
-      "Alan": 1, 
-      "Taneb": 1, 
-      "hayashi": 2, 
-      "Tinned_Tuna": 1, 
-      "_46": 1, 
-      "LordAro": 3
+    "2015-12-22": {
+      "hayashi": 1, 
+      "LordAro": 1
     }, 
-    "2015-12-15": {
-      "RagingGrim": 1, 
-      "barrucadu": 3, 
-      "Helzibah": 2, 
-      "_46": 1, 
-      "hayashi": 4, 
-      "Beornwulf": 1, 
-      "bjs": 1, 
-      "DinCahill": 2
+    "2015-12-25": {
+      "hayashi": 1
     }, 
-    "2015-12-16": {
-      "barrucadu": 2, 
-      "Taneb": 3, 
-      "_46": 1, 
-      "hayashi": 2, 
-      "LordAro": 1, 
-      "AlfBot275": 1
+    "2015-04-07": {
+      "hayashi": 1
     }, 
-    "2015-12-17": {
-      "barrucadu": 2, 
-      "Taneb": 4, 
-      "_46": 1, 
-      "Helzibah": 2, 
-      "liamfraser": 1, 
-      "aims": 4, 
-      "LordAro": 1, 
-      "marilla": 1
+    "2016-09-28": {
+      "quoboo": 1
     }, 
-    "2015-12-10": {
-      "barrucadu": 5, 
-      "bjs": 1, 
-      "monotoni": 2, 
-      "_46": 2, 
+    "2016-01-18": {
       "Helzibah": 1
     }, 
-    "2015-12-11": {
-      "Rryy": 1, 
-      "Helzibah": 2, 
-      "_46": 2, 
-      "hayashi": 4, 
-      "Alan": 1, 
-      "LordAro": 1, 
-      "dpk": 1
+    "2015-11-22": {
+      "hayashi": 1
     }, 
-    "2015-12-12": {
+    "2016-09-25": {
+      "quoboo": 1
+    }, 
+    "2015-06-03": {
+      "hayashi": 1
+    }, 
+    "2016-11-18": {
       "LordAro": 1, 
-      "barrucadu": 1, 
-      "_46": 2, 
-      "Alan": 1, 
-      "PfoD": 1
+      "hayashi": 1, 
+      "sdhand": 1, 
+      "_46": 1
+    }, 
+    "2015-12-17": {
+      "Helzibah": 1
+    }, 
+    "2016-02-26": {
+      "Alan": 1
     }, 
     "2015-12-13": {
       "Alan": 1
     }, 
-    "2016-03-15": {
-      "hayashi": 4, 
-      "Mathison": 1
+    "2016-11-12": {
+      "hayashi": 2
     }, 
-    "2016-03-14": {
-      "lupine": 1, 
-      "_46": 4, 
-      "hayashi": 1, 
-      "sweetbun": 1, 
-      "bjs": 1, 
-      "LordAro": 2, 
-      "marilla": 1
+    "2016-11-13": {
+      "sdhand": 1
     }, 
-    "2016-03-17": {
-      "barrucadu": 4, 
-      "hayashi": 1, 
-      "LordAro": 1, 
-      "bjs": 1, 
-      "_46": 3
+    "2016-02-29": {
+      "barrucadu": 1
     }, 
-    "2016-03-16": {
-      "barrucadu": 2, 
-      "hayashi": 1, 
-      "Alan": 1, 
-      "_46": 3, 
-      "Helzibah": 1
+    "2016-11-11": {
+      "sdhand": 7
     }, 
     "2015-12-18": {
-      "Helzibah": 2, 
-      "nitia": 1
+      "Helzibah": 1
     }, 
-    "2015-12-19": {
-      "hayashi": 2, 
-      "barrucadu": 1, 
-      "Speed`": 1, 
-      "_46": 1, 
-      "Taneb": 4
-    }, 
-    "2016-03-13": {
-      "hayashi": 2, 
-      "Mathison": 1, 
-      "barrucadu": 1, 
-      "LordAro": 1
-    }, 
-    "2016-03-12": {
-      "hayashi": 2, 
-      "barrucadu": 1, 
-      "marilla": 1
-    }, 
-    "2016-08-30": {
-      "barrucadu": 1, 
-      "hayashi": 1, 
-      "_46": 1
-    }, 
-    "2016-08-31": {
-      "barrucadu": 2, 
-      "hayashi": 2, 
-      "bjs": 1, 
-      "Taneb": 1, 
-      "_46": 4
-    }, 
-    "2016-05-13": {
-      "dpk": 1, 
-      "bjs": 1, 
-      "_46": 1, 
-      "marilla": 1, 
-      "Alan": 1
-    }, 
-    "2015-06-11": {
-      "jameseb": 2, 
-      "barrucadu": 2, 
-      "icydoge": 1, 
-      "Top_Cat": 1, 
-      "Alan": 1, 
-      "hayashi": 2, 
-      "_46": 2, 
-      "PartTimeLurker": 1
-    }, 
-    "2015-06-10": {
-      "LordAro": 1, 
-      "qlkzy": 1, 
-      "_46": 2
-    }, 
-    "2015-06-13": {
-      "hayashi": 1, 
-      "sweetbun": 1, 
-      "_46": 1
-    }, 
-    "2015-06-12": {
-      "barrucadu": 1, 
-      "mrfitzherbert": 1, 
-      "Speed`": 1, 
-      "Alan": 3, 
-      "hayashi": 1, 
-      "Mathison": 2, 
-      "sweetbun": 1
-    }, 
-    "2015-06-15": {
-      "barrucadu": 2, 
-      "icydoge": 9, 
-      "sweetbun": 1, 
-      "_46": 1, 
-      "Beornwulf": 1
-    }, 
-    "2015-06-14": {
-      "hayashi": 1, 
-      "Mathison": 1, 
-      "Alfie275": 1, 
-      "nitia": 1, 
-      "Taneb": 1
-    }, 
-    "2015-06-17": {
-      "barrucadu": 1, 
-      "Taneb": 1, 
-      "_46": 1, 
-      "qlkzy": 2, 
-      "PartTimeLurker": 1, 
-      "LordAro": 1, 
-      "bjs": 1, 
-      "liamfraser": 1
-    }, 
-    "2015-06-16": {
-      "hayashi": 2, 
-      "Taneb": 1, 
-      "Alan": 1
-    }, 
-    "2015-06-19": {
-      "Mathison": 1, 
-      "_46": 4, 
-      "hayashi": 2, 
-      "Beornwulf": 1, 
-      "bjs": 1, 
-      "Alan": 1
-    }, 
-    "2015-06-18": {
-      "hayashi": 3, 
-      "daeghnao": 1, 
-      "marilla": 1, 
-      "Alfie275": 1
-    }, 
-    "2016-08-27": {
-      "hayashi": 2, 
-      "j6mes": 1, 
-      "_46": 1
-    }, 
-    "2016-09-08": {
-      "sam_w": 1, 
-      "barrucadu": 3, 
-      "Taneb": 2, 
-      "_46": 1, 
-      "tommylommykins": 1, 
-      "Alan": 1, 
-      "marilla": 1
-    }, 
-    "2016-09-09": {
-      "barrucadu": 2, 
-      "Taneb": 2, 
-      "_46": 5, 
-      "Helzibah": 1, 
-      "hayashi": 2, 
-      "bjs": 1, 
-      "marilla": 1
-    }, 
-    "2016-05-11": {
-      "bjs": 1, 
-      "_46": 1
-    }, 
-    "2016-09-04": {
-      "_46": 1
-    }, 
-    "2016-09-05": {
-      "LordAro": 1, 
-      "quoboo": 2, 
-      "bjs": 1, 
-      "_46": 3, 
-      "LloydW": 1
-    }, 
-    "2016-09-06": {
-      "barrucadu": 2, 
-      "Helzibah": 1, 
-      "Alan": 1, 
-      "tommylommykins": 1, 
-      "_46": 3, 
-      "LordAro": 1, 
-      "nitia": 1
-    }, 
-    "2016-09-07": {
-      "barrucadu": 1, 
-      "mrfitzherbert": 1, 
-      "Helzibah": 2, 
-      "_46": 2, 
-      "Taneb": 2, 
-      "Alan": 2, 
-      "icydoge": 1, 
+    "2016-11-17": {
       "LordAro": 2, 
-      "quoboo": 1, 
-      "nitia": 2
+      "sdhand": 1, 
+      "__ddm__[self]": 2, 
+      "mpod": 2, 
+      "ddm": 2
     }, 
-    "2016-09-01": {
-      "barrucadu": 3, 
-      "sweetbun": 1, 
-      "_46": 3
-    }, 
-    "2016-09-02": {
-      "barrucadu": 1, 
-      "bjs": 2, 
-      "_46": 3
-    }, 
-    "2016-09-03": {
-      "barrucadu": 2, 
-      "Taneb": 1, 
-      "_46": 1
-    }, 
-    "2016-05-10": {
-      "barrucadu": 1, 
-      "Taneb": 1, 
-      "Alan": 2, 
-      "liamfraser": 1, 
-      "bjs": 1, 
-      "marilla": 1, 
-      "nitia": 1
-    }, 
-    "2015-05-29": {
-      "sam_w": 1, 
-      "barrucadu": 4, 
-      "Taneb": 1, 
-      "_46": 2, 
-      "Mathison": 1, 
-      "liamfraser": 1, 
-      "AlfBot275": 2
-    }, 
-    "2015-05-28": {
-      "barrucadu": 2, 
-      "Taneb": 1, 
-      "hayashi": 4, 
-      "sweetbun": 2, 
-      "qlkzy": 1, 
-      "marilla": 1
-    }, 
-    "2016-01-08": {
-      "icydoge": 1, 
-      "Taneb": 3, 
-      "_46": 2, 
-      "hayashi": 1, 
-      "yukibot": 2, 
-      "sweetbun": 1, 
-      "Alan": 1
-    }, 
-    "2016-07-13": {
-      "icydoge": 1, 
-      "Taneb": 1, 
-      "_46": 1
-    }, 
-    "2016-01-09": {
-      "hayashi": 4, 
-      "barrucadu": 1, 
-      "Taneb": 1, 
-      "tbrb": 1
-    }, 
-    "2016-07-12": {
-      "bjs": 1, 
-      "Helzibah": 1, 
-      "_46": 1, 
-      "Taneb": 2
-    }, 
-    "2016-05-31": {
-      "hayashi": 2, 
-      "sam_w": 1
-    }, 
-    "2016-05-30": {
-      "barrucadu": 1, 
-      "Mathison": 1, 
-      "frogba": 1, 
-      "hayashi": 1, 
-      "_46": 1
-    }, 
-    "2016-07-15": {
-      "barrucadu": 2, 
-      "_46": 6, 
-      "Alan": 1, 
-      "hayashi": 1, 
-      "Mathison": 1, 
-      "bjs": 3, 
-      "Alfie275": 1, 
-      "AlfBot275": 1
-    }, 
-    "2016-07-14": {
-      "Mathison": 1, 
-      "marilla": 1, 
-      "_46": 1, 
+    "2016-11-14": {
+      "sdhand": 1, 
       "Taneb": 1
     }, 
-    "2016-05-19": {
-      "barrucadu": 3, 
-      "_46": 1
+    "2016-03-18": {
+      "hayashi": 1
     }, 
-    "2016-05-18": {
-      "icydoge": 1, 
-      "bjs": 1, 
-      "Helzibah": 1, 
-      "_46": 2
-    }, 
-    "2016-11-23": {
-      "barrucadu": 7, 
-      "eep": 2, 
-      "hayashi": 4, 
-      "bjs": 1, 
-      "ddm": 9, 
-      "LordAro": 1, 
-      "DinCahill": 1, 
-      "marilla": 1, 
-      "nitia": 2, 
-      "sam[0]": 15
-    }, 
-    "2016-05-17": {
-      "PfoD": 1
-    }, 
-    "2016-11-21": {
-      "barrucadu": 5, 
-      "icydoge": 7, 
-      "sdhand": 4, 
-      "Helzibah": 2, 
-      "_46": 3, 
-      "eep": 2, 
-      "hayashi": 6, 
-      "Tinned_Tuna": 1, 
-      "frogba": 2, 
-      "bjs": 4, 
-      "Alan": 1, 
-      "ddm": 5, 
-      "LordAro": 3, 
-      "AlfBot275": 1, 
-      "nitia": 4, 
-      "marilla": 2, 
-      "mpod": 1, 
-      "sam[0]": 4
-    }, 
-    "2016-11-20": {
-      "icydoge": 4, 
-      "sdhand": 13, 
-      "eep": 3, 
-      "_46": 1, 
-      "Taneb": 2, 
-      "hayashi": 6, 
-      "bjs": 1, 
-      "ddm": 2, 
-      "LordAro": 1, 
+    "2016-09-30": {
       "quoboo": 1
     }, 
     "2016-11-27": {
-      "barrucadu": 1, 
-      "icydoge": 2, 
-      "bamberbiz": 3, 
-      "eep": 1, 
-      "hayashi": 7, 
-      "bjs": 2, 
-      "Alfie275": 1, 
-      "LordAro": 1, 
-      "AlfBot275": 1, 
-      "nitia": 1
-    }, 
-    "2016-11-26": {
-      "icydoge": 1, 
-      "sdhand": 8, 
-      "Alan": 2, 
-      "_46": 2, 
-      "ddm": 7, 
-      "LordAro": 2, 
-      "nitia": 1, 
-      "sam[0]": 1
-    }, 
-    "2016-11-25": {
-      "Helzibah": 1, 
-      "barrucadu": 2, 
-      "icydoge": 2, 
-      "eep": 5, 
-      "_46": 8, 
-      "Taneb": 2, 
-      "hayashi": 1, 
-      "Mathison": 2, 
-      "bjs": 2, 
-      "Alan": 4, 
-      "ddm": 2, 
-      "LordAro": 1, 
-      "quoboo": 1, 
-      "nitia": 3, 
-      "sam[0]": 7
-    }, 
-    "2016-05-16": {
-      "barrucadu": 1, 
-      "Beornwulf": 1, 
-      "LordAro": 1, 
-      "liamfraser": 1, 
-      "_46": 2
-    }, 
-    "2016-11-29": {
-      "barrucadu": 2, 
-      "eeeep": 1, 
-      "sdhand": 4, 
-      "eep": 5, 
-      "nit19": 1, 
-      "Helzibah": 2, 
-      "hayashi": 3, 
-      "Manguise": 2, 
-      "ddm": 1, 
-      "icydoge": 1, 
-      "_26": 1, 
-      "AlfBot275": 3, 
-      "sam[w]": 6, 
-      "marilla": 2, 
-      "mpod": 2
-    }, 
-    "2016-11-28": {
-      "Taneb": 6, 
-      "nit1a": 4, 
-      "\\27": 1, 
-      "barrucadu": 5, 
-      "sdhand": 6, 
-      "eep": 2, 
-      "Speed`": 1, 
-      "Helzibah": 2, 
-      "hayashi": 3, 
-      "bjs": 1, 
-      "ddm": 5, 
-      "sam[w]": 1, 
-      "marilla": 1
-    }, 
-    "2016-05-15": {
-      "Beornwulf": 1, 
-      "Nondeterminism": 1, 
-      "_46": 2
-    }, 
-    "2016-05-14": {
-      "eurodoge": 1, 
-      "Alan": 4, 
-      "_46": 2
-    }, 
-    "2015-08-31": {
-      "hayashi": 1, 
-      "Beornwulf": 1, 
-      "LordAro": 1, 
-      "PfoD": 1
-    }, 
-    "2015-08-30": {
       "hayashi": 5, 
-      "liamfraser": 3, 
-      "sweetbun": 1, 
-      "dpk": 1
-    }, 
-    "2016-05-12": {
-      "bjs": 1, 
-      "_46": 1
-    }, 
-    "2015-05-27": {
-      "Skeflas": 1, 
-      "jameseb": 1, 
-      "c4sper": 1, 
-      "Taneb": 1, 
-      "_46": 1, 
-      "hayashi": 3, 
-      "sweetbun": 2, 
-      "AlfBot275": 2, 
-      "dpk": 1, 
-      "marilla": 2
-    }, 
-    "2015-10-19": {
-      "barrucadu": 3, 
-      "hayashi": 1, 
-      "liamfraser": 1, 
-      "nyte": 1, 
-      "Alan": 1
-    }, 
-    "2015-04-30": {
-      "sam_w": 1, 
-      "jameseb": 2, 
-      "Skeflas": 1, 
-      "Alan": 1, 
-      "Speed`": 1, 
-      "hayashi": 2, 
-      "Alfie275": 1, 
+      "icydoge": 1, 
       "LordAro": 1
     }, 
-    "2016-04-03": {
-      "Taneb": 2, 
-      "hayashi": 3, 
-      "bjs": 1, 
-      "Alfie275": 1, 
-      "DinCahill": 1, 
-      "quoboo": 1, 
-      "mpod": 1
-    }, 
-    "2016-04-02": {
-      "barrucadu": 1, 
-      "icydoge": 1, 
-      "Alan": 1, 
-      "hayashi": 2, 
-      "frogba": 1, 
-      "qlkzy": 1, 
-      "bjs": 1, 
-      "nitia": 1
-    }, 
-    "2016-04-01": {
-      "barrucadu": 1, 
-      "Alan": 1, 
-      "bjs": 1, 
-      "AlfBot275": 1, 
-      "LordAro": 2, 
-      "quoboo": 2
-    }, 
-    "2016-04-07": {
-      "icydoge": 2, 
-      "mrfitzherbert": 1, 
-      "Taneb": 1, 
-      "sweetbun": 1, 
-      "lupine": 1, 
-      "LordAro": 1
-    }, 
-    "2016-04-06": {
-      "barrucadu": 1, 
-      "lupine": 3, 
-      "_46": 1, 
-      "hayashi": 2, 
-      "bjs": 2, 
-      "Alfie275": 1, 
-      "mrfitzherbert": 1, 
-      "nitia": 1
-    }, 
-    "2016-04-05": {
-      "qlkzy": 1, 
-      "_46": 2, 
-      "hayashi": 3, 
-      "bjs": 1, 
-      "LordAro": 1, 
-      "quoboo": 1, 
-      "mpod": 1
-    }, 
-    "2016-04-04": {
-      "mrfitzherbert": 1, 
-      "Taneb": 2, 
-      "_46": 1, 
-      "sweetbun": 1, 
-      "liamfraser": 1, 
-      "AlfBot275": 1, 
-      "quoboo": 2
-    }, 
-    "2016-04-09": {
-      "barrucadu": 1, 
-      "Mathison": 1, 
-      "jameseb": 2
-    }, 
-    "2016-04-08": {
-      "barrucadu": 3, 
-      "Taneb": 1, 
-      "_46": 4, 
-      "hayashi": 3, 
-      "bjs": 1, 
-      "Alan": 2, 
-      "quoboo": 2, 
-      "nitia": 2
-    }, 
-    "2016-10-31": {
-      "Rryy": 4, 
-      "deddm": 3, 
-      "Rryyp": 1, 
-      "icydoge": 5, 
-      "sdhand": 4, 
-      "eep": 3, 
-      "_46": 3, 
-      "Taneb": 1, 
-      "hayashi": 15, 
-      "undeddm": 2, 
-      "mrfitzherbert": 1, 
-      "LordAro": 1, 
-      "marilla": 1, 
-      "nitia": 6
-    }, 
-    "2016-10-30": {
-      "icydoge": 1, 
-      "mrfitzherbert": 1, 
-      "sdhand": 1, 
-      "eep": 1, 
-      "hayashi": 7, 
-      "bjs": 1, 
-      "eeeep": 1, 
-      "LordAro": 1, 
-      "quoboo": 1, 
-      "dpk": 1, 
-      "nitia": 1
-    }, 
-    "2016-07-20": {
-      "barrucadu": 5, 
-      "LordAro": 1, 
-      "Helzibah": 2, 
-      "_46": 1
-    }, 
-    "2016-10-08": {
-      "barrucadu": 1, 
-      "eep": 5, 
-      "hayashi": 13, 
-      "frogba": 1, 
-      "bjs": 4, 
-      "quoboo": 1, 
-      "LordAro": 2, 
-      "AlfBot275": 2, 
-      "nitia": 2
-    }, 
-    "2016-10-09": {
-      "barrucadu": 2, 
-      "eep": 4, 
-      "_46": 1, 
-      "hayashi": 5, 
-      "Alfie275": 3, 
-      "ddm": 1, 
-      "LordAro": 3, 
-      "quoboo": 1
-    }, 
-    "2016-01-31": {
-      "barrucadu": 2, 
-      "Speed`": 1, 
-      "_46": 6, 
-      "hayashi": 2, 
-      "sweetbun": 2, 
-      "liamfraser": 1, 
-      "DinCahill": 1
-    }, 
-    "2016-01-30": {
-      "barrucadu": 3, 
-      "Speed`": 2, 
-      "_46": 2, 
+    "2016-11-09": {
       "hayashi": 1, 
-      "frogba": 1, 
-      "liamfraser": 1, 
-      "LordAro": 1
-    }, 
-    "2016-10-02": {
-      "icydoge": 1, 
-      "hunt": 1, 
-      "Taneb": 1, 
-      "_46": 2, 
-      "hayashi": 6, 
-      "bjs": 2, 
-      "LordAro": 3, 
-      "DinCahill": 1
-    }, 
-    "2015-03-05": {
-      "jameseb": 1, 
-      "barrucadu": 5, 
-      "icydoge": 1, 
-      "Taneb": 1, 
-      "Speed`": 3, 
-      "hayashi": 1, 
-      "Tinned_Tuna": 1, 
-      "Alfie275": 5, 
-      "LordAro": 3, 
-      "AlfBot275": 1
-    }, 
-    "2015-03-04": {
-      "sam_w": 1, 
-      "Sourceless": 2, 
-      "barrucadu": 3, 
-      "Speed`": 2, 
-      "_46": 2, 
-      "Taneb": 1, 
-      "hayashi": 5, 
-      "Mathison": 1, 
-      "Alfie275": 1, 
-      "Tinned_Tuna": 1, 
-      "AlfBot275": 2
-    }, 
-    "2015-03-07": {
-      "icydoge": 1, 
-      "_46": 6, 
-      "hayashi": 2, 
-      "Mathison": 1, 
-      "qlkzy": 6, 
-      "Alfie275": 8, 
-      "LordAro": 1, 
-      "liamfraser": 2
-    }, 
-    "2015-03-06": {
-      "_46": 1, 
-      "hayashi": 3, 
-      "Mathison": 1, 
-      "sweetbun": 1, 
-      "liamfraser": 3, 
-      "LordAro": 4, 
-      "AlfBot275": 1
-    }, 
-    "2015-05-03": {
-      "hayashi": 3, 
-      "Taneb": 1, 
-      "_46": 1, 
-      "Speed`": 1, 
-      "JokerPajamas": 1, 
-      "liamfraser": 3, 
-      "AlfBot275": 2
-    }, 
-    "2015-05-02": {
-      "hayashi": 1, 
-      "barrucadu": 1, 
-      "liamfraser": 1, 
-      "Taneb": 3, 
-      "nitia": 1
-    }, 
-    "2015-05-01": {
-      "hayashi": 1, 
-      "icydoge": 1, 
-      "liamfraser": 3, 
-      "Taneb": 1, 
-      "_46": 1
-    }, 
-    "2015-05-07": {
-      "LloydW": 1, 
-      "jameseb": 2, 
-      "Alan": 1, 
-      "hayashi": 2, 
-      "Beornwulf": 2, 
-      "LordAro": 2
-    }, 
-    "2015-05-06": {
-      "jameseb": 1, 
-      "Beornwulf": 1, 
-      "barrucadu": 4, 
-      "mrfitzherbert": 2, 
-      "_46": 5, 
-      "hayashi": 5, 
       "Manguise": 1, 
-      "liamfraser": 4, 
-      "Alfie275": 1, 
-      "LordAro": 3, 
-      "qlkzy": 1
-    }, 
-    "2015-05-05": {
-      "jameseb": 1, 
-      "barrucadu": 4, 
-      "Taneb": 1, 
-      "_46": 2, 
-      "hayashi": 2, 
-      "Mathison": 1, 
-      "liamfraser": 2, 
-      "Alfie275": 2, 
-      "LordAro": 2
-    }, 
-    "2015-05-04": {
-      "Skeflas": 1, 
-      "jameseb": 1, 
-      "barrucadu": 1, 
-      "icydoge": 1, 
-      "Taneb": 1, 
-      "_46": 2, 
-      "Speed`": 1, 
-      "hayashi": 4, 
-      "sweetbun": 1, 
-      "qlkzy": 1, 
-      "DinCahill": 1, 
-      "AlfBot275": 1, 
-      "liamfraser": 2
-    }, 
-    "2015-05-09": {
-      "jameseb": 1, 
-      "barrucadu": 1, 
-      "Speed`": 2, 
-      "_46": 2, 
-      "hayashi": 3, 
-      "Mathison": 1, 
-      "liamfraser": 1, 
-      "Ajsdf": 1, 
-      "LordAro": 4
-    }, 
-    "2015-05-08": {
-      "daeghnao": 1, 
-      "barrucadu": 3, 
-      "Taneb": 1, 
-      "_46": 2, 
-      "Speed`": 1, 
-      "hayashi": 1, 
-      "Mathison": 1, 
-      "sweetbun": 2, 
-      "liamfraser": 1, 
-      "Alan": 2, 
-      "LordAro": 3
-    }, 
-    "2016-06-27": {
-      "barrucadu": 3, 
-      "_46": 2, 
-      "bjs": 1, 
-      "marilla": 1, 
-      "Alan": 1
-    }, 
-    "2016-06-26": {
-      "barrucadu": 1, 
-      "hayashi": 4, 
-      "lupine": 1
-    }, 
-    "2016-06-25": {
-      "icydoge": 1, 
-      "nitia": 1, 
-      "_46": 2
-    }, 
-    "2016-06-24": {
-      "LloydW": 1, 
-      "Sourceless": 1, 
-      "jameseb": 1, 
-      "barrucadu": 2, 
-      "icydoge": 2, 
-      "_46": 3, 
-      "hayashi": 2, 
-      "Alan": 1, 
-      "quoboo": 1, 
-      "dpk": 1, 
-      "marilla": 1, 
-      "nitia": 1
-    }, 
-    "2016-06-23": {
-      "barrucadu": 3, 
-      "icydoge": 1, 
-      "Taneb": 1, 
-      "_46": 1, 
-      "bjs": 2, 
-      "dpk": 1, 
-      "nitia": 1
-    }, 
-    "2016-06-22": {
-      "barrucadu": 1, 
-      "Rryy": 2, 
-      "bjs": 1, 
-      "Alan": 1
-    }, 
-    "2016-06-21": {
-      "hayashi": 1, 
-      "Rryy": 1, 
-      "_46": 1
-    }, 
-    "2016-06-20": {
-      "barrucadu": 1, 
-      "icydoge": 2, 
-      "_46": 2, 
-      "Alan": 2
-    }, 
-    "2016-06-29": {
-      "LordAro": 1, 
-      "bjs": 1, 
-      "Alan": 1
-    }, 
-    "2016-06-28": {
-      "hayashi": 1, 
-      "bjs": 1
-    }, 
-    "2016-11-03": {
-      "Rryy": 4, 
-      "PfoD": 1, 
-      "barrucadu": 2, 
-      "icydoge": 4, 
-      "hunt": 1, 
-      "sdhand": 6, 
-      "Taneb": 3, 
-      "Alan": 1, 
-      "hayashi": 15, 
-      "Tinned_Tuna": 2, 
-      "yukibot": 1, 
-      "sweetbun": 1, 
-      "ddm": 5, 
-      "LordAro": 4, 
-      "AlfBot275": 1, 
-      "obf": 2
-    }, 
-    "2015-11-28": {
-      "daeghnao": 2, 
-      "barrucadu": 1, 
-      "_46": 1, 
-      "hayashi": 1, 
-      "LordAro": 1, 
-      "DinCahill": 2
-    }, 
-    "2015-11-29": {
-      "Alan": 1, 
-      "hayashi": 5, 
-      "bjs": 1, 
-      "_46": 1, 
-      "nitia": 1, 
-      "Alfie275": 1
-    }, 
-    "2015-11-24": {
-      "Helzibah": 2, 
-      "barrucadu": 4, 
-      "Taneb": 1, 
-      "Alan": 2, 
-      "Speed`": 1, 
-      "hayashi": 4, 
-      "_46": 1, 
-      "LordAro": 2, 
-      "prettygreat": 1
-    }, 
-    "2015-11-25": {
-      "hayashi": 2, 
-      "barrucadu": 4, 
-      "sweetbun": 1
-    }, 
-    "2015-11-26": {
-      "hayashi": 3, 
-      "AlfBot275": 1, 
-      "frogba": 2, 
-      "Mathison": 1
-    }, 
-    "2015-11-27": {
-      "barrucadu": 1, 
-      "Taneb": 1, 
-      "Alan": 2, 
-      "hayashi": 2, 
-      "bjs": 1, 
-      "LordAro": 1
-    }, 
-    "2015-11-20": {
-      "Taneb": 2, 
-      "Alan": 1, 
-      "hayashi": 2, 
-      "sweetbun": 1, 
-      "bjs": 2, 
-      "_46": 1, 
-      "liamfraser": 1, 
-      "tbrb": 1
-    }, 
-    "2015-11-21": {
-      "hayashi": 2, 
-      "DinCahill": 1, 
-      "_46": 1, 
-      "Alan": 3
-    }, 
-    "2015-11-22": {
-      "barrucadu": 3, 
-      "Taneb": 1, 
-      "_46": 4, 
-      "hayashi": 4, 
-      "bjs": 1, 
-      "LordAro": 1, 
-      "DinCahill": 1
-    }, 
-    "2015-11-23": {
-      "escproxy": 1, 
-      "Helzibah": 1, 
-      "_46": 1, 
-      "hayashi": 2, 
-      "Mathison": 1, 
-      "Alan": 2, 
-      "LordAro": 1
-    }, 
-    "2015-09-07": {
-      "hayashi": 4, 
-      "barrucadu": 1, 
-      "marilla": 1, 
-      "Alan": 1, 
-      "PfoD": 1
-    }, 
-    "2015-09-06": {
-      "Sunshard": 1, 
-      "PfoD": 2, 
-      "icydoge": 1, 
-      "Taneb": 4, 
-      "_46": 2, 
-      "hayashi": 1, 
-      "bjs": 1, 
-      "Alan": 1
-    }, 
-    "2015-09-05": {
-      "hayashi": 4, 
-      "mrfitzherbert": 1, 
-      "Taneb": 1, 
-      "Frankablu": 1
-    }, 
-    "2015-09-04": {
-      "hayashi": 2, 
-      "bjs": 1
-    }, 
-    "2015-09-03": {
-      "hayashi": 4, 
-      "sweetbun": 1, 
-      "gavinatkinson": 1, 
-      "Alfie275": 1, 
-      "Taneb": 2
-    }, 
-    "2015-09-02": {
-      "hayashi": 3, 
-      "entity": 1
-    }, 
-    "2015-09-01": {
-      "hayashi": 1, 
-      "sweetbun": 2, 
-      "liamfraser": 1, 
-      "RushGeno": 1
-    }, 
-    "2015-10-30": {
-      "barrucadu": 1, 
-      "Alan": 1, 
-      "_46": 1, 
-      "PartTimeLurker": 1
-    }, 
-    "2015-10-31": {
-      "hayashi": 1, 
-      "icydoge": 1, 
-      "barrucadu": 4, 
-      "bjs": 2, 
-      "lauren^": 1
-    }, 
-    "2016-07-31": {
-      "icydoge": 1, 
-      "frogba": 1, 
-      "Alan": 1, 
-      "_46": 1
-    }, 
-    "2016-07-30": {
-      "barrucadu": 1, 
-      "AlfBot275": 1, 
-      "_46": 3
-    }, 
-    "2016-11-16": {
-      "LloydW": 1, 
-      "Taneb": 3, 
-      "jameseb": 1, 
-      "sdhand": 5, 
-      "Helzibah": 2, 
-      "_46": 4, 
-      "eep": 1, 
-      "hayashi": 3, 
-      "Mathison": 1, 
-      "bjs": 1, 
-      "ddm": 3, 
-      "nitia": 3
-    }, 
-    "2016-11-17": {
-      "barrucadu": 3, 
-      "sdhand": 7, 
-      "Helzibah": 4, 
-      "_46": 2, 
-      "eep": 1, 
-      "hayashi": 1, 
-      "bjs": 2, 
-      "__ddm__[self]": 2, 
-      "ddm": 4, 
-      "LordAro": 4, 
-      "AlfBot275": 1, 
-      "nitia": 1, 
-      "mpod": 3
-    }, 
-    "2015-09-09": {
-      "jameseb": 1, 
-      "barrucadu": 1, 
-      "icydoge": 1, 
-      "_46": 3, 
-      "hayashi": 2, 
-      "sweetbun": 1, 
-      "bjs": 1, 
-      "Alan": 1
-    }, 
-    "2015-09-08": {
-      "hayashi": 3, 
-      "DinCahill": 2, 
-      "Taneb": 2, 
-      "Alan": 2, 
-      "Frankablu": 1
-    }, 
-    "2015-07-30": {
-      "barrucadu": 1, 
-      "Taneb": 3, 
-      "Alan": 1, 
-      "entity": 1, 
-      "hayashi": 2, 
-      "tommylommykins": 2, 
-      "LordAro": 2, 
-      "DinCahill": 1, 
-      "marilla": 1
-    }, 
-    "2015-07-31": {
-      "LordAro": 2, 
-      "hayashi": 1, 
-      "HackSocRoom": 1, 
-      "prettygreat": 1, 
-      "Alan": 1
-    }, 
-    "2015-12-09": {
-      "Rryy": 1, 
-      "Helzibah": 1, 
-      "barrucadu": 1, 
-      "Taneb": 3, 
-      "_46": 1, 
-      "Alan": 1, 
-      "bjs": 1, 
-      "Sunshard": 1, 
-      "LordAro": 2, 
-      "marilla": 1
-    }, 
-    "2015-12-08": {
-      "barrucadu": 4, 
-      "Sunshard": 1, 
-      "hayashi": 1, 
-      "_46": 3, 
-      "LordAro": 1, 
-      "DinCahill": 2
-    }, 
-    "2015-12-03": {
-      "barrucadu": 2, 
-      "Alan": 1, 
-      "hayashi": 3, 
-      "bjs": 2, 
-      "_46": 1, 
-      "LordAro": 2, 
-      "DinCahill": 1
-    }, 
-    "2015-12-02": {
-      "liamfraser": 1, 
-      "bjs": 1, 
-      "_46": 2
-    }, 
-    "2015-12-01": {
-      "eun": 3, 
-      "Luke__": 1, 
-      "barrucadu": 2, 
-      "hayashi": 1, 
-      "Mathison": 1, 
-      "bjs": 1
-    }, 
-    "2015-12-07": {
-      "hayashi": 2, 
-      "barrucadu": 2, 
-      "Helzibah": 1, 
-      "_46": 2
-    }, 
-    "2015-12-06": {
-      "barrucadu": 2, 
-      "hayashi": 2, 
-      "bjs": 1, 
-      "_46": 2
-    }, 
-    "2015-12-05": {
-      "LordAro": 3, 
-      "Taneb": 1, 
-      "_46": 3
-    }, 
-    "2015-12-04": {
-      "barrucadu": 2, 
-      "hayashi": 2, 
-      "Taneb": 1, 
-      "_46": 2, 
-      "mrfitzherbert": 1
-    }, 
-    "2016-03-20": {
-      "hayashi": 3, 
-      "sweetbun": 1, 
-      "Taneb": 1
-    }, 
-    "2016-03-21": {
-      "hayashi": 3, 
-      "Rryy": 1, 
-      "Alan": 2
-    }, 
-    "2016-03-22": {
-      "barrucadu": 1, 
-      "hayashi": 1, 
-      "bjs": 1, 
-      "Alan": 2, 
-      "icydoge": 1
-    }, 
-    "2016-03-23": {
-      "hayashi": 2
-    }, 
-    "2016-03-24": {
-      "hayashi": 1, 
-      "Mathison": 2, 
-      "sweetbun": 2, 
-      "bjs": 1, 
-      "Alan": 1
-    }, 
-    "2016-03-25": {
-      "AlfBot275": 1, 
-      "_46": 1, 
-      "marilla": 3, 
-      "nitia": 1
-    }, 
-    "2016-03-26": {
-      "barrucadu": 1, 
-      "Mathison": 1, 
-      "_46": 1
-    }, 
-    "2016-03-27": {
-      "barrucadu": 1
-    }, 
-    "2016-03-28": {
-      "barrucadu": 3, 
-      "Taneb": 1, 
-      "Alan": 1, 
-      "hayashi": 1, 
-      "sweetbun": 1, 
-      "LordAro": 1, 
-      "nitia": 1
-    }, 
-    "2016-03-19": {
-      "hayashi": 2, 
-      "_46": 1
-    }, 
-    "2016-03-18": {
-      "barrucadu": 1, 
-      "Alan": 1, 
-      "hayashi": 1, 
-      "_46": 1, 
-      "LordAro": 1, 
-      "marilla": 1
-    }, 
-    "2016-08-29": {
-      "LordAro": 1, 
-      "mrfitzherbert": 1, 
-      "neoncontrails": 1, 
-      "_46": 2, 
-      "Taneb": 1
-    }, 
-    "2016-08-28": {
-      "barrucadu": 1, 
-      "Taneb": 1, 
-      "_46": 3, 
-      "hayashi": 2, 
-      "LordAro": 1, 
-      "neoncontrails": 1, 
-      "j6mes": 1, 
-      "dpk": 1
-    }, 
-    "2016-08-25": {
-      "barrucadu": 2, 
-      "Helzibah": 2, 
-      "_46": 2, 
-      "hayashi": 2, 
-      "Mathison": 1, 
-      "Alan": 3, 
-      "DinCahill": 1, 
-      "LordAro": 1, 
-      "quoboo": 2
-    }, 
-    "2016-08-24": {
-      "barrucadu": 3, 
-      "DinCahill": 1, 
-      "_46": 1, 
-      "Alan": 1
-    }, 
-    "2016-07-29": {
-      "barrucadu": 2, 
-      "Helzibah": 1, 
-      "_46": 2, 
-      "mrfitzwhabert": 1, 
-      "bjs": 1, 
-      "nitia": 1
-    }, 
-    "2016-08-26": {
-      "hayashi": 3, 
-      "Taneb": 1
-    }, 
-    "2016-08-21": {
-      "barrucadu": 1, 
-      "icydoge": 1, 
-      "_46": 1, 
-      "hayashi": 1, 
-      "sweetbun": 1, 
-      "bjs": 5, 
-      "LordAro": 1, 
-      "mcmuffinsplease": 1
-    }, 
-    "2016-08-20": {
-      "hayashi": 1, 
-      "quoboo": 3, 
-      "_46": 3, 
-      "icydoge": 1
-    }, 
-    "2016-08-23": {
-      "barrucadu": 3, 
-      "Helzibah": 2, 
-      "_46": 2, 
-      "hayashi": 1, 
-      "Mathison": 1, 
-      "bjs": 2, 
-      "quoboo": 1, 
-      "dpk": 1
-    }, 
-    "2016-08-22": {
-      "barrucadu": 3, 
-      "hayashi": 1, 
-      "bjs": 1, 
-      "marilla": 1, 
-      "_46": 1
-    }, 
-    "2016-04-30": {
-      "barrucadu": 2, 
-      "icydoge": 1, 
-      "_46": 1, 
-      "liamfraser": 1, 
-      "Alan": 1, 
-      "LordAro": 1
-    }, 
-    "2016-03-11": {
-      "sam_w": 1, 
-      "sweetbun": 1, 
-      "Helzibah": 1
-    }, 
-    "2016-03-10": {
-      "hayashi": 6, 
-      "_46": 5
-    }, 
-    "2015-06-24": {
-      "barrucadu": 2, 
-      "hayashi": 2, 
-      "_46": 1, 
-      "Alan": 1
-    }, 
-    "2015-06-25": {
-      "Taneb": 1, 
-      "Mathison": 1, 
-      "Helzibah": 1, 
-      "marilla": 1
-    }, 
-    "2015-06-26": {
-      "LordAro": 2, 
-      "hayashi": 1
-    }, 
-    "2015-06-27": {
-      "hayashi": 3, 
-      "Mathison": 1, 
-      "LordAro": 1, 
-      "Alan": 2
-    }, 
-    "2015-06-20": {
-      "c4sper": 1, 
-      "mrfitzherbert": 1, 
-      "Taneb": 3, 
-      "_46": 2, 
-      "Alan": 2, 
-      "marilla": 1
-    }, 
-    "2015-06-21": {
-      "LordAro": 1, 
-      "Taneb": 2, 
-      "_46": 1
-    }, 
-    "2015-06-22": {
-      "hayashi": 3, 
-      "barrucadu": 1, 
-      "julian-": 1
-    }, 
-    "2015-06-23": {
-      "hayashi": 1
-    }, 
-    "2016-10-06": {
-      "Rryy": 1, 
-      "icydoge": 2, 
-      "sdhand": 1, 
-      "eep": 5, 
-      "hayashi": 6, 
-      "ddm": 4, 
-      "AlfBot275": 1, 
-      "LordAro": 1, 
-      "quoboo": 1, 
-      "marilla": 1, 
-      "nitia": 2
-    }, 
-    "2016-10-07": {
-      "PfoD": 1, 
-      "barrucadu": 1, 
-      "icydoge": 2, 
-      "eep": 5, 
-      "_46": 1, 
-      "hayashi": 8, 
-      "bjs": 4, 
-      "ddm": 2, 
-      "quoboo": 1, 
-      "DinCahill": 1, 
-      "nitia": 2
-    }, 
-    "2016-10-04": {
-      "Rryy": 1, 
-      "sam_w": 1, 
-      "icydoge": 2, 
-      "Taneb": 4, 
-      "_46": 4, 
-      "eep": 3, 
-      "hayashi": 4, 
-      "bjs": 3, 
-      "LordAro": 1, 
-      "quoboo": 5
-    }, 
-    "2016-10-05": {
-      "barrucadu": 4, 
-      "sdhand": 1, 
-      "eep": 7, 
-      "Taneb": 1, 
-      "hayashi": 4, 
-      "Mathison": 1, 
-      "yukibot": 1, 
-      "bjs": 1, 
-      "Alfie275": 2, 
-      "LordAro": 5, 
-      "quoboo": 3, 
-      "nitia": 1
-    }, 
-    "2015-06-28": {
-      "hayashi": 3, 
-      "Manguise": 1
-    }, 
-    "2015-06-29": {
-      "hayashi": 1, 
-      "bjs": 2, 
-      "Speed`": 1, 
-      "_46": 1
-    }, 
-    "2016-10-01": {
-      "icydoge": 1, 
-      "sdhand": 1, 
-      "hayashi": 2, 
-      "Beornwulf": 1, 
-      "frogba": 1, 
-      "LordAro": 2, 
-      "quoboo": 3
-    }, 
-    "2016-11-07": {
-      "sam_w": 1, 
-      "Helzibah": 1, 
-      "barrucadu": 3, 
-      "icydoge": 1, 
-      "sdhand": 7, 
-      "eep": 1, 
-      "_46": 2, 
-      "Taneb": 2, 
-      "hayashi": 5, 
-      "bjs": 1, 
-      "Alan": 1, 
-      "LordAro": 1, 
-      "DinCahill": 1, 
-      "marilla": 1, 
-      "nitia": 1
-    }, 
-    "2016-09-13": {
-      "barrucadu": 1, 
-      "icydoge": 2, 
-      "Helzibah": 2, 
-      "_46": 1, 
-      "frogba": 1, 
-      "mrfitzherbert": 1, 
-      "marilla": 1
-    }, 
-    "2016-09-12": {
-      "barrucadu": 2, 
-      "quoboo": 1, 
-      "hayashi": 1
-    }, 
-    "2016-09-11": {
-      "barrucadu": 1, 
-      "LordAro": 2, 
-      "bjs": 2, 
-      "_46": 1
-    }, 
-    "2016-09-10": {
-      "barrucadu": 1, 
-      "_46": 3, 
-      "hayashi": 2, 
-      "bjs": 2, 
-      "LordAro": 1, 
-      "quoboo": 1
-    }, 
-    "2016-09-17": {
-      "LordAro": 1, 
-      "quoboo": 1, 
-      "barrucadu": 1, 
-      "bjs": 1, 
-      "_46": 1
-    }, 
-    "2016-09-16": {
-      "Sourceless": 1, 
-      "laser`": 1, 
-      "barrucadu": 1, 
-      "Helzibah": 1, 
-      "_46": 3, 
-      "bjs": 1, 
-      "Alan": 4, 
-      "LordAro": 1, 
-      "marilla": 1
-    }, 
-    "2016-09-15": {
-      "LordAro": 1, 
-      "_46": 4
-    }, 
-    "2016-09-14": {
-      "LordAro": 2, 
-      "bjs": 1, 
-      "dpk": 1, 
-      "nitia": 1, 
-      "_46": 4
-    }, 
-    "2016-09-19": {
-      "mrfitzherbert": 1, 
-      "Helzibah": 1, 
-      "bjs": 3, 
-      "Alfie275": 3, 
-      "quoboo": 1, 
-      "LordAro": 1, 
-      "AlfBot275": 1, 
-      "marilla": 3
-    }, 
-    "2016-09-18": {
-      "barrucadu": 2, 
-      "bjs": 2, 
-      "dpk": 3
-    }, 
-    "2016-05-08": {
-      "icydoge": 2, 
-      "_46": 1, 
-      "hayashi": 1, 
-      "bjs": 1, 
-      "Alan": 1, 
-      "liamfraser": 1
-    }, 
-    "2015-03-09": {
-      "barrucadu": 4, 
-      "Helzibah": 1, 
-      "_46": 4, 
-      "Speed`": 3, 
-      "hayashi": 2, 
-      "qlkzy": 1, 
-      "AlfBot275": 2, 
-      "LordAro": 1, 
-      "liamfraser": 4, 
-      "nitia": 1
-    }, 
-    "2016-07-01": {
-      "hayashi": 1, 
-      "barrucadu": 2, 
-      "bjs": 1, 
-      "_46": 2
-    }, 
-    "2016-07-06": {
-      "LordAro": 1, 
-      "bjs": 1, 
-      "dpk": 1
-    }, 
-    "2016-07-07": {
-      "hayashi": 1, 
-      "Mathison": 1, 
-      "_46": 1, 
-      "icydoge": 1
-    }, 
-    "2016-07-04": {
-      "Sourceless": 1, 
-      "marilla": 1
-    }, 
-    "2015-03-08": {
-      "_46": 1, 
-      "hayashi": 1, 
-      "liamfraser": 2, 
-      "Sunshard": 1, 
-      "LordAro": 2, 
-      "AlfBot275": 1
-    }, 
-    "2016-05-01": {
-      "PfoD": 1, 
-      "barrucadu": 3, 
-      "_46": 2, 
-      "hayashi": 1, 
-      "frogba": 3, 
-      "bjs": 1, 
-      "Alfie275": 1, 
-      "liamfraser": 2
-    }, 
-    "2015-05-30": {
-      "Sourceless": 1, 
-      "Speed`": 2, 
-      "_46": 8, 
-      "Taneb": 3, 
-      "hayashi": 1, 
-      "sweetbun": 1, 
-      "Alfie275": 2, 
-      "PartTimeLurker": 1, 
-      "LordAro": 1, 
-      "dpk": 3
-    }, 
-    "2015-05-31": {
-      "sam_w": 1, 
-      "qlkzy": 2, 
-      "Taneb": 1, 
-      "_46": 1, 
-      "hayashi": 5, 
-      "liamfraser": 1, 
-      "Alfie275": 2, 
-      "AlfBot275": 2
-    }, 
-    "2016-05-04": {
-      "hayashi": 1, 
-      "quoboo": 1, 
-      "liamfraser": 1, 
-      "Speed`": 1, 
-      "_46": 1
-    }, 
-    "2016-05-05": {
-      "Helzibah": 1, 
-      "hayashi": 2, 
-      "Mathison": 1, 
-      "sweetbun": 3, 
-      "liamfraser": 2, 
-      "LordAro": 2, 
-      "bjs": 2
-    }, 
-    "2016-05-06": {
-      "Speed`": 1, 
-      "Alan": 1, 
-      "sweetbun": 1, 
-      "Alfie275": 3, 
-      "LordAro": 1, 
-      "HackSocRoom": 1
-    }, 
-    "2016-05-07": {
-      "hayashi": 3, 
-      "DinCahill": 1, 
-      "_46": 1, 
-      "nitia": 1
-    }, 
-    "2016-07-28": {
-      "barrucadu": 4, 
-      "Helzibah": 1, 
-      "_46": 1, 
-      "sweetbun": 1, 
-      "bjs": 1, 
-      "dpk": 1
-    }, 
-    "2016-06-18": {
-      "AlfBot275": 1, 
-      "bjs": 2, 
-      "nitia": 1, 
-      "_46": 2
-    }, 
-    "2016-06-19": {
-      "barrucadu": 2, 
-      "quoboo": 2, 
-      "hayashi": 1, 
-      "_46": 2
-    }, 
-    "2016-06-16": {
-      "hayashi": 1, 
-      "barrucadu": 3, 
-      "Taneb": 6
-    }, 
-    "2016-06-17": {
-      "wish": 2, 
-      "Taneb": 1, 
-      "_46": 3, 
-      "Helzibah": 1, 
-      "hayashi": 1, 
-      "Alan": 1, 
-      "AlfBot275": 1
-    }, 
-    "2016-06-14": {
-      "barrucadu": 1, 
-      "Helzibah": 2, 
-      "_46": 1, 
-      "hayashi": 2, 
-      "sweetbun": 1, 
-      "dpk": 1
-    }, 
-    "2016-06-15": {
-      "barrucadu": 1, 
-      "Helzibah": 3, 
-      "_46": 1, 
-      "Taneb": 2, 
-      "liamfraser": 1, 
-      "marilla": 2, 
-      "nitia": 1
-    }, 
-    "2016-06-12": {
-      "icydoge": 1, 
-      "Taneb": 1, 
-      "_46": 1, 
-      "hayashi": 1, 
-      "frogba": 1, 
-      "LordAro": 2, 
-      "nitia": 1
-    }, 
-    "2016-06-13": {
-      "barrucadu": 3, 
-      "icydoge": 1, 
-      "Helzibah": 1, 
-      "_46": 4
-    }, 
-    "2016-06-11": {
-      "Taneb": 1
-    }, 
-    "2016-07-02": {
-      "barrucadu": 1, 
-      "hayashi": 2, 
-      "frogba": 1, 
-      "Alan": 1
-    }, 
-    "2015-08-09": {
-      "LordAro": 1, 
-      "hayashi": 1, 
-      "_46": 1
-    }, 
-    "2016-11-12": {
-      "barrucadu": 5, 
       "sdhand": 1, 
       "Taneb": 1, 
-      "_46": 2, 
-      "hayashi": 4, 
-      "LordAro": 1, 
-      "quoboo": 3, 
+      "eep": 1
+    }, 
+    "2016-11-08": {
+      "hayashi": 3, 
+      "Helzibah": 1, 
       "nitia": 1
     }, 
-    "2016-05-09": {
-      "barrucadu": 3, 
-      "Taneb": 1, 
-      "Alan": 1, 
-      "hayashi": 2, 
-      "bjs": 1, 
-      "_46": 2, 
-      "DinCahill": 1
-    }, 
-    "2015-08-04": {
-      "hayashi": 1, 
-      "sweetbun": 1, 
-      "Alan": 2
-    }, 
-    "2015-08-05": {
-      "jameseb": 1, 
-      "barrucadu": 1, 
-      "Helzibah": 1, 
-      "_46": 3, 
-      "hayashi": 3, 
-      "liamfraser": 1, 
-      "Alan": 1, 
-      "dpk": 2
-    }, 
-    "2015-08-06": {
-      "hayashi": 3, 
-      "icydoge": 1, 
-      "Alan": 1
-    }, 
-    "2015-08-07": {
-      "Mathison": 1, 
-      "mrfitzherbert": 1, 
-      "_46": 2, 
-      "hayashi": 2, 
-      "Beornwulf": 1, 
-      "Alfie275": 1, 
-      "LordAro": 2
-    }, 
-    "2015-08-01": {
-      "LordAro": 1
-    }, 
-    "2015-08-02": {
-      "barrucadu": 1, 
-      "DinCahill": 2, 
-      "sam_w": 2, 
-      "Taneb": 1, 
-      "_46": 1
-    }, 
-    "2015-08-03": {
-      "sam_w": 1, 
-      "Alan": 3, 
+    "2016-11-19": {
+      "sdhand": 4, 
+      "eep": 2, 
       "_46": 1, 
-      "LordAro": 2, 
-      "DinCahill": 1, 
-      "Egon_": 1, 
-      "prettygreat": 2
-    }, 
-    "2016-08-04": {
-      "LordAro": 1, 
-      "bjs": 1, 
-      "_46": 3
-    }, 
-    "2016-08-03": {
-      "gavinatkinson": 1, 
-      "bjs": 1, 
-      "laser`": 1
-    }, 
-    "2016-08-02": {
-      "barrucadu": 1, 
-      "hayashi": 1, 
-      "Helzibah": 1, 
-      "Alan": 2, 
-      "DinCahill": 1
-    }, 
-    "2016-08-01": {
-      "barrucadu": 2, 
-      "bjs": 2, 
-      "Alan": 1, 
-      "_46": 1
-    }, 
-    "2016-07-05": {
-      "barrucadu": 1, 
-      "bjs": 1
-    }, 
-    "2016-07-11": {
-      "Taneb": 1, 
-      "_46": 2, 
-      "hayashi": 1, 
-      "Alan": 1, 
-      "quoboo": 1, 
-      "dpk": 1, 
-      "marilla": 1, 
-      "Alfie275": 1
-    }, 
-    "2016-05-02": {
-      "hayashi": 3, 
-      "icydoge": 3, 
-      "laser`": 2, 
-      "_46": 1
-    }, 
-    "2015-09-30": {
-      "barrucadu": 2, 
-      "hayashi": 1, 
-      "PfoD": 1
-    }, 
-    "2016-05-03": {
-      "icydoge": 1, 
-      "_46": 3, 
       "hayashi": 4, 
-      "liamfraser": 3, 
-      "DinCahill": 1, 
-      "marilla": 1, 
-      "nitia": 1
-    }, 
-    "2016-07-10": {
-      "icydoge": 2, 
-      "_46": 3, 
-      "hayashi": 1, 
-      "Beornwulf": 1, 
-      "mrfitzherbert": 1, 
-      "dpk": 1
-    }, 
-    "2016-08-09": {
-      "Beornwulf": 1, 
-      "_46": 1, 
-      "Alan": 1
-    }, 
-    "2016-08-08": {
-      "barrucadu": 1, 
-      "Helzibah": 1, 
-      "_46": 1, 
-      "hayashi": 2, 
-      "Beornwulf": 1, 
-      "LordAro": 2
-    }, 
-    "2015-09-20": {
-      "hayashi": 1, 
-      "barrucadu": 1, 
-      "Sunshard": 3
-    }, 
-    "2015-12-30": {
-      "PfoD": 1, 
-      "Alan": 1, 
-      "bjs": 1, 
-      "_46": 1, 
-      "LordAro": 1, 
-      "AlfBot275": 1
-    }, 
-    "2015-12-31": {
-      "_46": 1, 
-      "PfoD": 1
-    }, 
-    "2016-01-04": {
-      "Taneb": 1, 
-      "_46": 1, 
-      "Helzibah": 1, 
-      "hayashi": 3, 
-      "frogba": 1, 
-      "Alan": 1, 
-      "AlfBot275": 1, 
-      "DinCahill": 1, 
-      "marilla": 2
-    }, 
-    "2016-01-05": {
-      "Beornwulf": 2, 
-      "PfoD": 1, 
-      "barrucadu": 2, 
-      "Taneb": 1, 
-      "_46": 3, 
-      "MattWithOneT": 1, 
-      "hayashi": 8, 
-      "Mathison": 1, 
-      "tommylommykins": 1, 
-      "liamfraser": 1, 
-      "Alan": 1, 
-      "bjs": 2, 
-      "LordAro": 1, 
+      "Manguise": 1, 
+      "ddm": 1, 
       "DinCahill": 1, 
       "nitia": 1
-    }, 
-    "2016-01-06": {
-      "barrucadu": 4, 
-      "icydoge": 3, 
-      "Speed`": 1, 
-      "Alan": 1, 
-      "Taneb": 1, 
-      "hayashi": 3, 
-      "liamfraser": 2, 
-      "Alfie275": 1, 
-      "LordAro": 4, 
-      "nitia": 1
-    }, 
-    "2016-01-07": {
-      "icydoge": 3, 
-      "Helzibah": 1, 
-      "_46": 1, 
-      "hayashi": 4, 
-      "Mathison": 2, 
-      "bjs": 1, 
-      "Alan": 1, 
-      "nitia": 1
-    }, 
-    "2016-01-01": {
-      "barrucadu": 1, 
-      "icydoge": 1, 
-      "jameseb": 1, 
-      "_46": 2
-    }, 
-    "2016-01-02": {
-      "hayashi": 1, 
-      "Mathison": 3, 
-      "barrucadu": 1, 
-      "_46": 1, 
-      "Alan": 2
-    }, 
-    "2016-01-03": {
-      "barrucadu": 1, 
-      "_46": 2, 
-      "liamfraser": 1, 
-      "Alan": 1, 
-      "AlfBot275": 1, 
-      "LordAro": 1, 
-      "DinCahill": 1
-    }, 
-    "2015-03-30": {
-      "LordAro": 2, 
-      "hayashi": 1, 
-      "Skeflas": 1, 
-      "barrucadu": 2
-    }, 
-    "2015-03-31": {
-      "entity_": 1, 
-      "barrucadu": 3, 
-      "Speed`": 2, 
-      "Taneb": 1, 
-      "hayashi": 2, 
-      "Mathison": 1, 
-      "liamfraser": 1, 
-      "marilla": 1, 
-      "nitia": 1
-    }, 
-    "2015-04-08": {
-      "entity_": 1, 
-      "barrucadu": 3, 
-      "icydoge": 1, 
-      "qlkzy": 1, 
-      "_46": 1, 
-      "hayashi": 10, 
-      "sweetbun": 1, 
-      "liamfraser": 2, 
-      "LordAro": 2, 
-      "AlfBot275": 1
-    }, 
-    "2015-04-09": {
-      "Speed`": 1, 
-      "_46": 1, 
-      "hayashi": 5, 
-      "AlfBot275": 1, 
-      "KappaBot": 2, 
-      "DinCahill": 1
-    }, 
-    "2015-04-01": {
-      "barrucadu": 1, 
-      "Helzibah": 1, 
-      "Alan": 1, 
-      "Speed`": 2, 
-      "hayashi": 4, 
-      "sweetbun": 1, 
-      "qlkzy": 2, 
-      "_46": 1, 
-      "AlfBot275": 1, 
-      "LordAro": 2, 
-      "liamfraser": 1
-    }, 
-    "2015-04-02": {
-      "sam_w": 1, 
-      "entity_": 1, 
-      "jameseb": 1, 
-      "Taneb": 1, 
-      "_46": 1, 
-      "hayashi": 2, 
-      "qlkzy": 1, 
-      "LordAro": 1, 
-      "liamfraser": 2
-    }, 
-    "2015-04-03": {
-      "barrucadu": 1, 
-      "icydoge": 1, 
-      "LordAro": 2, 
-      "hayashi": 1, 
-      "_46rack": 1
-    }, 
-    "2015-04-04": {
-      "entity_": 2, 
-      "barrucadu": 3, 
-      "hayashi": 3, 
-      "tommylommykins": 1, 
-      "Alfie275": 1, 
-      "LordAro": 1
-    }, 
-    "2015-04-05": {
-      "hayashi": 4, 
-      "AlfBot275": 2, 
-      "sweetbun": 1, 
-      "entity_": 1
-    }, 
-    "2015-04-06": {
-      "icydoge": 5, 
-      "Taneb": 1, 
-      "Alan": 1, 
-      "hayashi": 3, 
-      "Mathison": 1, 
-      "qlkzy": 1, 
-      "LordAro": 1, 
-      "liamfraser": 1
-    }, 
-    "2015-04-07": {
-      "jameseb": 1, 
-      "icydoge": 2, 
-      "Taneb": 1, 
-      "_46": 1, 
-      "hayashi": 4, 
-      "Mathison": 1, 
-      "LordAro": 1, 
-      "AlfBot275": 2
     }, 
     "2016-11-01": {
-      "Rryy": 1, 
-      "barrucadu": 2, 
-      "icydoge": 6, 
-      "sdhand": 10, 
-      "eep": 1, 
-      "_46": 7, 
-      "Helzibah": 1, 
-      "hayashi": 10, 
-      "frogba": 2, 
-      "ddm": 3, 
-      "LordAro": 1, 
-      "AlfBot275": 2
-    }, 
-    "2016-09-28": {
-      "_46": 1, 
-      "frogba": 1, 
-      "bjs": 1, 
-      "LordAro": 1, 
-      "quoboo": 1, 
-      "nitia": 2
-    }, 
-    "2016-09-29": {
-      "barrucadu": 1, 
-      "hayashi": 1, 
-      "_46": 1, 
-      "Alan": 1, 
-      "icydoge": 1
-    }, 
-    "2016-09-22": {
-      "Sourceless": 1, 
-      "_46": 2, 
-      "hayashi": 1, 
-      "bjs": 1, 
-      "LordAro": 3, 
-      "quoboo": 1, 
-      "nitia": 1
-    }, 
-    "2016-09-23": {
-      "Taneb": 1, 
-      "_46": 1, 
-      "hayashi": 1, 
-      "sweetbun": 2, 
-      "bjs": 1, 
-      "quoboo": 3
-    }, 
-    "2016-09-20": {
-      "icydoge": 1, 
-      "Helzibah": 1, 
-      "_46": 1, 
-      "hayashi": 6, 
-      "quoboo": 2, 
-      "marilla": 1
-    }, 
-    "2016-09-21": {
-      "barrucadu": 2, 
-      "hayashi": 1, 
-      "nitia": 2, 
-      "_46": 1
-    }, 
-    "2016-09-26": {
-      "barrucadu": 3, 
-      "Taneb": 2, 
-      "hayashi": 8, 
-      "bjs": 2, 
-      "quoboo": 2, 
-      "marilla": 2
-    }, 
-    "2016-09-27": {
-      "barrucadu": 1, 
-      "Taneb": 2, 
-      "_46": 1, 
       "hayashi": 2, 
-      "LordAro": 1, 
-      "quoboo": 2
+      "eep": 1
     }, 
-    "2016-09-24": {
-      "barrucadu": 2, 
-      "Helzibah": 1, 
-      "Alan": 1, 
-      "Taneb": 1, 
-      "hayashi": 4, 
-      "bjs": 1, 
-      "marilla": 1
-    }, 
-    "2016-09-25": {
-      "barrucadu": 1, 
-      "_46": 2, 
-      "hayashi": 1, 
-      "bjs": 1, 
-      "quoboo": 3, 
-      "marilla": 2, 
-      "nitia": 1
+    "2016-11-03": {
+      "Rryy": 2, 
+      "sdhand": 3, 
+      "Taneb": 2, 
+      "hayashi": 6, 
+      "Tinned_Tuna": 2, 
+      "yukibot": 1, 
+      "ddm": 1, 
+      "LordAro": 2
     }, 
     "2016-11-02": {
       "sam_w": 1, 
-      "laser`": 1, 
       "PfoD": 1, 
-      "barrucadu": 6, 
-      "icydoge": 4, 
-      "sdhand": 2, 
-      "Helzibah": 7, 
-      "_46": 6, 
-      "Alan": 1, 
-      "hayashi": 11, 
-      "bjs": 3, 
-      "Alfie275": 4, 
-      "ddm": 2, 
-      "AlfBot275": 1, 
-      "LordAro": 2, 
-      "quoboo": 3, 
-      "prettygreat": 1, 
-      "nitia": 5
-    }, 
-    "2016-07-17": {
-      "barrucadu": 3, 
-      "AlfBot275": 1, 
-      "hayashi": 1, 
-      "bjs": 1
-    }, 
-    "2016-11-05": {
-      "icydoge": 2, 
-      "sdhand": 2, 
-      "eep": 1, 
-      "hayashi": 4, 
-      "bjs": 2, 
-      "ddm": 4, 
-      "AlfBot275": 1, 
-      "nitia": 1
-    }, 
-    "2016-11-04": {
-      "sweetbun": 1, 
-      "Helzibah": 2, 
-      "barrucadu": 1, 
+      "barrucadu": 2, 
       "icydoge": 1, 
       "sdhand": 1, 
-      "eep": 3, 
+      "hayashi": 4, 
+      "bjs": 1, 
+      "nitia": 2
+    }, 
+    "2016-11-05": {
+      "hayashi": 2, 
+      "AlfBot275": 1, 
+      "ddm": 1
+    }, 
+    "2016-11-04": {
+      "hayashi": 6, 
+      "AlfBot275": 1, 
+      "m_pod": 1, 
+      "Alfie275": 1, 
+      "nitia": 1
+    }, 
+    "2016-11-07": {
+      "hayashi": 2, 
+      "DinCahill": 1, 
+      "sdhand": 1, 
       "_46": 1, 
+      "nitia": 2
+    }, 
+    "2016-11-06": {
+      "hayashi": 4, 
+      "eep": 1, 
+      "_46": 3
+    }, 
+    "2016-11-26": {
+      "LordAro": 1, 
+      "sdhand": 4, 
+      "ddm": 3
+    }, 
+    "2016-08-21": {
+      "quoboo": 1
+    }, 
+    "2016-08-22": {
+      "quoboo": 1
+    }, 
+    "2016-05-27": {
+      "Alan": 1
+    }, 
+    "2016-09-09": {
+      "quoboo": 1
+    }, 
+    "2016-11-10": {
+      "hayashi": 2, 
+      "sdhand": 1, 
+      "nitia": 2, 
+      "ddm": 2
+    }, 
+    "2016-11-16": {
+      "hayashi": 2, 
+      "sdhand": 1, 
+      "Taneb": 3
+    }, 
+    "2015-06-24": {
+      "hayashi": 1
+    }, 
+    "2016-10-08": {
+      "hayashi": 6, 
+      "quoboo": 1, 
+      "bjs": 1, 
+      "eep": 5, 
+      "nitia": 2
+    }, 
+    "2016-10-09": {
+      "hayashi": 4, 
+      "eep": 4
+    }, 
+    "2016-10-06": {
+      "hayashi": 5, 
+      "quoboo": 1, 
+      "eep": 4, 
+      "AlfBot275": 1
+    }, 
+    "2016-10-07": {
+      "hayashi": 4, 
+      "quoboo": 1, 
+      "eep": 4, 
+      "nitia": 1
+    }, 
+    "2016-10-04": {
+      "sam_w": 1, 
+      "icydoge": 1, 
       "Taneb": 1, 
+      "eep": 3, 
+      "hayashi": 3, 
+      "bjs": 1, 
+      "quoboo": 1, 
+      "marilla": 2
+    }, 
+    "2016-10-05": {
+      "eep": 6, 
+      "hayashi": 3, 
+      "yukibot": 1, 
+      "LordAro": 1, 
+      "quoboo": 2, 
+      "nitia": 1
+    }, 
+    "2016-10-02": {
+      "hayashi": 6, 
+      "LordAro": 1, 
+      "hunt": 1
+    }, 
+    "2016-10-03": {
+      "quoboo": 1
+    }, 
+    "2016-08-15": {
+      "LordAro": 1
+    }, 
+    "2015-08-25": {
+      "hayashi": 1
+    }, 
+    "2016-09-13": {
+      "hayashi": 1
+    }, 
+    "2016-04-27": {
+      "marilla": 1
+    }, 
+    "2016-11-23": {
+      "barrucadu": 3, 
+      "ddm": 1, 
+      "nitia": 1, 
+      "sam[0]": 4
+    }, 
+    "2016-11-22": {
+      "eep": 1, 
+      "Taneb": 4, 
+      "hayashi": 1, 
+      "ddm": 1, 
+      "LordAro": 1, 
+      "sam[0]": 6
+    }, 
+    "2016-11-21": {
+      "barrucadu": 1, 
+      "icydoge": 2, 
+      "sdhand": 4, 
+      "eep": 1, 
+      "hayashi": 4, 
+      "ddm": 2, 
+      "LordAro": 1
+    }, 
+    "2016-11-20": {
+      "icydoge": 1, 
+      "sdhand": 8, 
+      "eep": 1, 
+      "_46": 1, 
+      "Taneb": 2, 
+      "hayashi": 4
+    }, 
+    "2016-10-19": {
+      "sdhand": 1, 
+      "eep": 2, 
+      "_46": 1, 
       "hayashi": 6, 
       "bjs": 1, 
-      "daeghnao": 1, 
-      "m_pod": 1, 
-      "Alan": 1, 
+      "ddm": 1, 
+      "nitia": 2
+    }, 
+    "2016-10-18": {
+      "Rryy": 4, 
+      "barrucadu": 1, 
+      "qlkzy": 1, 
+      "sdhand": 9, 
+      "Taneb": 1, 
+      "eep": 6, 
+      "hayashi": 5, 
+      "eep_": 1, 
+      "bjs": 1, 
+      "Alfie275": 1, 
       "ddm": 5, 
       "LordAro": 1, 
       "AlfBot275": 1, 
-      "nitia": 4, 
-      "Alfie275": 1
-    }, 
-    "2016-02-23": {
-      "barrucadu": 1, 
-      "Speed`": 3, 
-      "_46": 2, 
-      "hayashi": 4, 
-      "liamfraser": 1, 
-      "nitia": 1
-    }, 
-    "2016-02-22": {
-      "_46": 4, 
-      "hayashi": 3, 
-      "sweetbun": 1, 
-      "bjs": 1, 
-      "LordAro": 4, 
-      "DinCahill": 1
-    }, 
-    "2016-02-21": {
-      "barrucadu": 1, 
-      "lupine": 3, 
-      "Speed`": 2, 
-      "_46": 2, 
-      "hayashi": 4, 
-      "liamfraser": 1, 
-      "Alan": 4, 
-      "LordAro": 1
-    }, 
-    "2016-02-20": {
-      "hayashi": 1, 
-      "liamfraser": 1, 
-      "_46": 1
-    }, 
-    "2016-02-27": {
-      "barrucadu": 1, 
-      "hayashi": 1, 
-      "_46": 1
-    }, 
-    "2016-02-26": {
-      "PfoD": 1, 
-      "Helzibah": 3, 
-      "Alan": 1, 
-      "hayashi": 2, 
-      "bjs": 1, 
-      "_46": 1
-    }, 
-    "2016-02-25": {
-      "barrucadu": 1, 
-      "icydoge": 1, 
-      "Speed`": 1, 
-      "_46": 3, 
-      "hayashi": 3, 
-      "sweetbun": 1, 
-      "Alfie275": 1
-    }, 
-    "2016-02-24": {
-      "hayashi": 5, 
-      "barrucadu": 1, 
-      "Speed`": 1, 
-      "_46": 3
-    }, 
-    "2016-02-29": {
-      "LordAro": 1, 
-      "Mathison": 1, 
-      "barrucadu": 1, 
-      "liamfraser": 3
-    }, 
-    "2016-02-28": {
-      "_46": 1, 
-      "Alan": 1
-    }, 
-    "2016-07-16": {
-      "LordAro": 1, 
-      "dpk": 1, 
-      "barrucadu": 3, 
-      "bjs": 1, 
-      "Taneb": 1
-    }, 
-    "2016-11-13": {
-      "LordAro": 1, 
-      "barrucadu": 1, 
-      "sdhand": 1
-    }, 
-    "2015-11-30": {
-      "hayashi": 3, 
-      "barrucadu": 1, 
-      "liamfraser": 1, 
-      "Alfie275": 1, 
-      "Alan": 1
-    }, 
-    "2015-03-19": {
-      "barrucadu": 1, 
-      "Helzibah": 3, 
-      "Alan": 4, 
-      "hayashi": 5, 
-      "Mathison": 1, 
-      "qlkzy": 2, 
-      "_46": 1, 
-      "LordAro": 1, 
-      "AlfBot275": 2, 
-      "liamfraser": 1
-    }, 
-    "2016-07-19": {
-      "barrucadu": 1, 
-      "Helzibah": 1, 
-      "_46": 8, 
-      "Alfie275": 1, 
-      "LordAro": 1, 
-      "marilla": 1
-    }, 
-    "2016-11-10": {
-      "barrucadu": 2, 
-      "sdhand": 4, 
-      "Helzibah": 1, 
-      "_46": 1, 
-      "hayashi": 3, 
-      "ddm": 6, 
-      "LordAro": 1, 
-      "quoboo": 1, 
-      "dpk": 1, 
-      "marilla": 1, 
       "nitia": 3
     }, 
-    "2016-11-09": {
-      "Manguise": 1, 
+    "2016-11-25": {
+      "hayashi": 1, 
       "barrucadu": 1, 
-      "icydoge": 1, 
-      "sdhand": 6, 
-      "eep": 3, 
-      "Taneb": 1, 
-      "hayashi": 3, 
-      "Mathison": 1, 
-      "ddm": 4, 
-      "LordAro": 1
+      "LordAro": 1, 
+      "_46": 1, 
+      "sam[0]": 4
     }, 
-    "2016-11-08": {
-      "laser`": 1, 
-      "barrucadu": 1, 
-      "mrfitzherbert": 1, 
-      "sdhand": 5, 
-      "Helzibah": 1, 
-      "Alan": 1, 
+    "2016-11-24": {
       "eep": 1, 
-      "hayashi": 5, 
-      "Mathison": 1, 
-      "_46": 2, 
-      "ddm": 1, 
-      "quoboo": 1, 
-      "marilla": 1
-    }, 
-    "2015-10-29": {
-      "barrucadu": 2, 
-      "icydoge": 1, 
-      "Alan": 3, 
       "hayashi": 1, 
-      "bjs": 1, 
-      "AlfBot275": 1
-    }, 
-    "2015-10-28": {
-      "icydoge": 2, 
-      "Adam_T": 1, 
-      "_46": 1, 
-      "DinCahill": 1
-    }, 
-    "2015-10-27": {
-      "Taneb": 1, 
-      "Helzibah": 1, 
-      "_46": 2, 
-      "Speed`": 2, 
-      "hayashi": 4, 
-      "sweetbun": 1, 
-      "bjs": 1, 
-      "marilla": 2
-    }, 
-    "2015-10-26": {
-      "hayashi": 3, 
-      "sweetbun": 3, 
-      "_46": 1
-    }, 
-    "2015-10-25": {
-      "daeghnao": 1, 
-      "barrucadu": 1, 
-      "Speed`": 2, 
-      "_46": 4, 
-      "Taneb": 1, 
-      "hayashi": 3, 
-      "Mathison": 1, 
-      "sweetbun": 2, 
-      "liamfraser": 1, 
-      "LordAro": 1, 
-      "AlfBot275": 1
-    }, 
-    "2015-10-24": {
-      "barrucadu": 1, 
-      "icydoge": 2, 
-      "Taneb": 1, 
-      "_46": 1, 
-      "hayashi": 5, 
       "bjs": 2, 
-      "Sunshard": 1, 
-      "LordAro": 4
-    }, 
-    "2015-10-23": {
-      "Haegin": 2, 
-      "barrucadu": 2, 
-      "Speed`": 2, 
-      "_46": 1, 
-      "hayashi": 2, 
-      "frogba": 1, 
-      "bjs": 1, 
-      "LordAro": 1
-    }, 
-    "2015-10-22": {
-      "barrucadu": 3, 
-      "icydoge": 1, 
-      "Speed`": 2, 
-      "Sunshard": 1, 
-      "hayashi": 10, 
-      "liamfraser": 1, 
-      "bjs": 5, 
-      "dpk": 1
-    }, 
-    "2015-10-21": {
-      "hayashi": 4, 
-      "DinCahill": 1, 
-      "barrucadu": 1, 
-      "marilla": 1, 
-      "_46": 1
-    }, 
-    "2015-10-20": {
-      "barrucadu": 5, 
-      "Taneb": 2, 
-      "Alan": 1, 
-      "Helzibah": 1, 
-      "hayashi": 2, 
-      "Mathison": 2, 
-      "liamfraser": 1, 
-      "_46": 1, 
-      "LordAro": 2, 
-      "DinCahill": 1
-    }, 
-    "2016-07-18": {
-      "barrucadu": 5, 
-      "Helzibah": 1, 
-      "_46": 1, 
-      "tommylommykins": 3, 
-      "LordAro": 1, 
-      "AlfBot275": 1, 
-      "dpk": 1
-    }, 
-    "2016-11-11": {
-      "sdhand": 15, 
-      "Helzibah": 1, 
-      "_46": 1, 
-      "Taneb": 1, 
-      "ddm": 1, 
-      "marilla": 1, 
-      "nitia": 1
-    }, 
-    "2015-07-27": {
-      "barrucadu": 1, 
-      "Alan": 3, 
-      "prettygreat_": 1, 
-      "Taneb": 1
-    }, 
-    "2015-07-26": {
-      "mrfitzherbert": 1, 
-      "sweetbun": 1
-    }, 
-    "2015-07-25": {
-      "barrucadu": 1, 
-      "marilla": 1, 
-      "_46": 1
-    }, 
-    "2015-07-24": {
-      "barrucadu": 1, 
-      "icydoge": 2, 
-      "Taneb": 2, 
-      "Speed`": 1, 
-      "hayashi": 4, 
-      "Mathison": 1, 
-      "sweetbun": 1, 
-      "liamfraser": 1, 
-      "Alfie275": 1, 
-      "bjs": 1, 
-      "tommylom1ykins": 1
-    }, 
-    "2015-07-23": {
-      "Mathison": 1, 
-      "marilla": 1, 
-      "_46": 1, 
-      "Beornwulf": 1
-    }, 
-    "2015-07-22": {
-      "LloydW": 1, 
-      "barrucadu": 4, 
-      "mrfitzherbert": 2, 
-      "Taneb": 2, 
-      "_46": 1, 
-      "hayashi": 3, 
-      "LordAro": 2
-    }, 
-    "2015-07-21": {
-      "LordAro": 1, 
-      "barrucadu": 2, 
-      "hayashi": 3, 
-      "Alan": 1
-    }, 
-    "2015-07-20": {
-      "LordAro": 1, 
-      "Mathison": 1, 
-      "Alfie275": 1, 
-      "_46": 1, 
-      "Taneb": 1
-    }, 
-    "2015-07-29": {
-      "barrucadu": 1, 
-      "LordAro": 1, 
-      "Speed`": 1, 
-      "_46": 2
-    }, 
-    "2015-07-28": {
-      "LordAro": 1, 
-      "Mathison": 1, 
-      "hayashi": 2, 
-      "Taneb": 1, 
-      "_46": 3
-    }, 
-    "2016-03-31": {
-      "barrucadu": 2, 
-      "mrfitzherbert": 1, 
-      "Alan": 1, 
-      "hayashi": 3, 
-      "sweetbun": 1, 
-      "bjs": 1, 
-      "Alfie275": 1, 
-      "LordAro": 1
-    }, 
-    "2016-03-30": {
-      "barrucadu": 1, 
-      "hayashi": 3, 
-      "sweetbun": 1, 
-      "bjs": 2
-    }, 
-    "2016-08-10": {
-      "hayashi": 3, 
-      "mrfitzherbert": 1, 
-      "barrucadu": 1, 
-      "Alan": 2
-    }, 
-    "2016-08-11": {
-      "Mathison": 1, 
-      "_46": 5
-    }, 
-    "2016-08-12": {
-      "barrucadu": 1, 
-      "Helzibah": 2
-    }, 
-    "2016-08-13": {
-      "quoboo": 1, 
-      "Speed`": 1, 
-      "_46": 3
-    }, 
-    "2016-08-14": {
-      "barrucadu": 2, 
-      "_46": 1, 
-      "nitia": 1, 
-      "Alan": 1
-    }, 
-    "2016-08-15": {
-      "mrfitzherbert": 1, 
-      "_46": 1, 
-      "AlfBot275": 1, 
-      "LordAro": 1, 
-      "quoboo": 1, 
-      "marilla": 1
-    }, 
-    "2016-08-16": {
-      "_46": 3, 
-      "hayashi": 1, 
-      "Alan": 1, 
-      "AlfBot275": 1, 
-      "dpk": 1, 
-      "marilla": 1
-    }, 
-    "2016-08-17": {
-      "barrucadu": 1, 
-      "icydoge": 2, 
-      "_46": 2, 
-      "Mathison": 1, 
-      "bjs": 1, 
-      "quoboo": 1
-    }, 
-    "2016-08-18": {
-      "barrucadu": 3, 
-      "quoboo": 2, 
-      "j6mes": 1, 
-      "hayashi": 2, 
-      "_46": 2
-    }, 
-    "2016-08-19": {
-      "barrucadu": 2, 
-      "Taneb": 1, 
-      "_46": 2, 
-      "hayashi": 1, 
-      "Mathison": 1, 
-      "bjs": 2, 
-      "LordAro": 3, 
-      "quoboo": 1
-    }, 
-    "2016-04-29": {
-      "LordAro": 1, 
-      "icydoge": 1, 
-      "Alfie275": 1, 
-      "_46": 3, 
-      "nitia": 2
-    }, 
-    "2016-04-28": {
-      "hayashi": 1
-    }, 
-    "2016-04-21": {
-      "barrucadu": 4, 
-      "Taneb": 1, 
-      "_46": 1, 
-      "hayashi": 3, 
-      "sweetbun": 1, 
-      "frogba": 1
-    }, 
-    "2016-04-20": {
-      "barrucadu": 2, 
-      "DinCahill": 1, 
-      "sweetbun": 1, 
-      "bjs": 1, 
-      "_46": 3
-    }, 
-    "2016-04-23": {
-      "LordAro": 2, 
-      "barrucadu": 1, 
-      "hayashi": 2, 
-      "nitia": 1
-    }, 
-    "2016-04-22": {
-      "hayashi": 1, 
-      "icydoge": 1, 
-      "sam_w": 1, 
-      "bjs": 2, 
-      "_46": 1
-    }, 
-    "2016-04-25": {
-      "barrucadu": 1, 
-      "mrfitzherbert": 1, 
-      "_46": 2, 
-      "tinyhippo": 1, 
-      "sweetbun": 2, 
-      "liamfraser": 1, 
-      "icydoge": 1, 
-      "LordAro": 1, 
-      "marilla": 1
-    }, 
-    "2016-04-24": {
-      "hayashi": 2, 
-      "sweetbun": 2, 
-      "nitia": 2
-    }, 
-    "2016-04-27": {
-      "barrucadu": 2, 
-      "icydoge": 2, 
-      "Speed`": 2, 
-      "Alan": 1, 
-      "tommylommykins": 1, 
-      "liamfraser": 1, 
-      "_46": 1, 
-      "bjs": 1
-    }, 
-    "2016-04-26": {
-      "hayashi": 1, 
-      "AlfBot275": 1, 
-      "bjs": 1
-    }, 
-    "2015-06-30": {
-      "Taneb": 2, 
-      "_46": 1, 
-      "Helzibah": 1, 
-      "hayashi": 1, 
-      "liamfraser": 1, 
-      "bjs": 1, 
-      "DinCahill": 1
-    }, 
-    "2016-10-19": {
-      "Rryy": 3, 
-      "CamJ256": 2, 
-      "barrucadu": 2, 
-      "icydoge": 1, 
-      "sdhand": 3, 
-      "eep": 6, 
-      "_46": 2, 
-      "hayashi": 13, 
-      "Mathison": 2, 
-      "bjs": 1, 
-      "Alfie275": 1, 
-      "ddm": 3, 
-      "j6mes": 3, 
-      "quoboo": 1, 
-      "nitia": 3
-    }, 
-    "2016-10-18": {
-      "Rryy": 16, 
-      "Taneb": 1, 
-      "barrucadu": 3, 
-      "icydoge": 2, 
-      "qlkzy": 1, 
-      "sdhand": 23, 
-      "Helzibah": 5, 
-      "_46": 1, 
-      "eep": 13, 
-      "hayashi": 17, 
-      "eep_": 1, 
-      "frogba": 1, 
-      "bjs": 3, 
-      "Alfie275": 2, 
-      "ddm": 16, 
-      "quoboo": 1, 
-      "LordAro": 2, 
-      "AlfBot275": 1, 
-      "nitia": 3
+      "ddm": 8, 
+      "nitia": 2, 
+      "sam[0]": 5
     }, 
     "2016-10-15": {
-      "barrucadu": 2, 
-      "icydoge": 1, 
-      "sdhand": 19, 
-      "eep": 5, 
-      "_46": 2, 
-      "ddm": 7, 
-      "AlfBot275": 1, 
-      "LordAro": 4, 
-      "quoboo": 2, 
+      "barrucadu": 1, 
+      "sdhand": 6, 
+      "eep": 4, 
+      "ddm": 4, 
+      "LordAro": 1, 
       "nitia": 6
     }, 
     "2016-10-14": {
-      "Taneb": 2, 
-      "eep_": 1, 
-      "sdhand": 7, 
+      "sdhand": 6, 
       "eep": 6, 
       "Alan": 1, 
-      "Helzibah": 2, 
-      "hayashi": 28, 
-      "Mathison": 1, 
-      "qlkzy": 1, 
-      "ddm": 8, 
-      "quoboo": 2, 
-      "LordAro": 4, 
-      "AlfBot275": 1, 
-      "marilla": 1
+      "Taneb": 1, 
+      "hayashi": 14, 
+      "eep_": 1, 
+      "ddm": 7, 
+      "LordAro": 1
     }, 
     "2016-10-17": {
-      "Rryy": 2, 
-      "Helzibah": 1, 
-      "barrucadu": 6, 
-      "icydoge": 2, 
-      "sdhand": 43, 
-      "eep": 9, 
-      "Alan": 1, 
-      "Taneb": 5, 
-      "hayashi": 25, 
+      "barrucadu": 1, 
+      "sdhand": 26, 
+      "Taneb": 2, 
+      "_46": 2, 
+      "eep": 8, 
+      "hayashi": 14, 
       "eep_": 1, 
-      "qlkzy": 2, 
-      "_46": 4, 
-      "ddm": 26, 
-      "LordAro": 7, 
-      "AlfBot275": 2, 
-      "nitia": 2
+      "qlkzy": 1, 
+      "ddm": 16, 
+      "LordAro": 4, 
+      "AlfBot275": 1, 
+      "nitia": 1
     }, 
     "2016-10-16": {
-      "MobileRaedwulf": 8, 
-      "barrucadu": 7, 
-      "icydoge": 3, 
-      "sdhand": 9, 
-      "eep": 11, 
-      "hayashi": 4, 
-      "Mathison": 1, 
-      "qlkzy": 1, 
-      "ddm": 3, 
+      "hayashi": 2, 
       "DinCahill": 1, 
-      "dpk": 1, 
-      "nitia": 9
+      "sdhand": 2, 
+      "eep": 10, 
+      "nitia": 4
     }, 
     "2016-10-11": {
-      "Atkrye": 1, 
-      "barrucadu": 1, 
-      "icydoge": 1, 
-      "sdhand": 10, 
-      "eep": 12, 
+      "sdhand": 9, 
+      "eep": 8, 
       "_46": 2, 
-      "Taneb": 2, 
-      "hayashi": 28, 
+      "hayashi": 19, 
       "sweetbun": 2, 
-      "ddm": 7, 
-      "mrfitzherbert": 2, 
-      "LordAro": 2, 
+      "ddm": 3, 
+      "LordAro": 1, 
+      "marilla": 1, 
       "nitia": 2
     }, 
-    "2016-10-10": {
-      "Rryy": 1, 
-      "sam_w": 1, 
-      "icydoge": 3, 
-      "Helzibah": 1, 
-      "hayashi": 1, 
-      "quoboo": 1
-    }, 
     "2016-10-13": {
-      "Beornwulf": 1, 
-      "Mathison": 1, 
-      "barrucadu": 1, 
-      "icydoge": 2, 
-      "sdhand": 2, 
-      "Helzibah": 2, 
-      "_46": 2, 
-      "Taneb": 3, 
-      "hayashi": 3, 
-      "Tinned_Tuna": 1, 
-      "bjs": 1, 
-      "ddm": 9, 
-      "mrfitzherbert": 1, 
-      "LordAro": 2, 
-      "quoboo": 4, 
+      "LordAro": 1, 
+      "hayashi": 2, 
+      "Taneb": 1, 
+      "ddm": 3, 
       "eep": 2
     }, 
     "2016-10-12": {
-      "barrucadu": 2, 
-      "icydoge": 1, 
-      "sdhand": 8, 
-      "eep": 9, 
-      "hayashi": 9, 
-      "ddm": 8, 
-      "DinCahill": 1, 
-      "AlfBot275": 1
-    }, 
-    "2016-03-08": {
-      "hayashi": 3, 
-      "Speed`": 2, 
-      "nitia": 2
-    }, 
-    "2016-03-09": {
-      "PfoD": 1, 
-      "barrucadu": 1, 
-      "_46": 2, 
       "hayashi": 5, 
-      "sweetbun": 2, 
-      "nitia": 1
-    }, 
-    "2016-03-06": {
-      "LordAro": 1, 
-      "hayashi": 1, 
-      "Taneb": 1, 
-      "julian-": 1
-    }, 
-    "2016-03-07": {
-      "barrucadu": 3, 
-      "icydoge": 1, 
-      "Taneb": 3, 
-      "_46": 2, 
-      "Helzibah": 1, 
-      "hayashi": 2, 
-      "DinCahill": 1
-    }, 
-    "2015-10-16": {
-      "hayashi": 1, 
-      "LordAro": 1, 
-      "sweetbun": 2, 
-      "Alan": 2, 
-      "AlfBot275": 1
-    }, 
-    "2015-10-17": {
-      "barrucadu": 3, 
-      "icydoge": 1, 
-      "LordAro": 1, 
-      "liamfraser": 1, 
-      "Speed`": 1
-    }, 
-    "2015-10-14": {
-      "hayashi": 2, 
-      "icydoge": 2, 
-      "daeghnao": 1, 
-      "frogba": 2, 
-      "Taneb": 1
-    }, 
-    "2015-10-15": {
-      "barrucadu": 1, 
-      "hayashi": 2, 
-      "_46": 1
-    }, 
-    "2015-10-12": {
-      "Taneb": 2, 
-      "_46": 1, 
-      "Helzibah": 1, 
-      "hayashi": 4, 
-      "Beornwulf": 1, 
-      "liamfraser": 1, 
-      "bjs": 1, 
-      "LordAro": 1, 
       "AlfBot275": 1, 
-      "nitia": 1
-    }, 
-    "2015-10-13": {
-      "barrucadu": 1, 
-      "hayashi": 2, 
-      "Speed`": 1, 
-      "_46": 2
-    }, 
-    "2015-10-10": {
-      "icydoge": 1, 
-      "Alan": 1, 
-      "frogba": 1, 
-      "bjs": 1, 
-      "_46": 1, 
-      "Alfie275": 1
-    }, 
-    "2015-10-11": {
-      "barrucadu": 1, 
-      "icydoge": 1, 
-      "_46": 1, 
-      "hayashi": 3, 
-      "bjs": 2, 
-      "LordAro": 1
-    }, 
-    "2015-05-21": {
-      "Skeflas": 1, 
-      "barrucadu": 2, 
-      "Speed`": 1, 
-      "Taneb": 1, 
-      "_46": 1, 
-      "Alan": 2, 
-      "hayashi": 5, 
-      "sweetbun": 1, 
-      "liamfraser": 2, 
-      "Alfie275": 4
-    }, 
-    "2015-05-20": {
-      "hayashi": 3, 
-      "barrucadu": 1, 
-      "Skeflas": 1, 
-      "liamfraser": 1, 
-      "Adam_T": 1
-    }, 
-    "2015-05-23": {
-      "LordAro": 2, 
-      "hayashi": 5, 
-      "Alfie275": 1, 
-      "_46": 2, 
-      "Alan": 1
-    }, 
-    "2015-05-22": {
-      "sam_w": 1, 
-      "daeghnao": 1, 
-      "jameseb": 1, 
-      "icydoge": 2, 
-      "Taneb": 1, 
-      "Alan": 1, 
-      "hayashi": 4, 
-      "_46": 1, 
-      "AlfBot275": 3, 
-      "DinCahill": 1
-    }, 
-    "2015-05-25": {
-      "LordAro": 1, 
-      "Beornwulf": 1, 
-      "sweetbun": 1, 
-      "Speed`": 1, 
-      "Alan": 1
-    }, 
-    "2015-05-24": {
-      "sam_w": 1, 
-      "barrucadu": 2, 
-      "_46": 1, 
-      "Beornwulf": 1, 
-      "sweetbun": 1, 
-      "Alan": 1, 
-      "LordAro": 1, 
-      "Nondeterminism": 1
-    }, 
-    "2015-10-18": {
-      "hayashi": 3, 
-      "LordAro": 1, 
-      "barrucadu": 1, 
-      "Alan": 1, 
-      "_46": 1
-    }, 
-    "2015-05-26": {
-      "barrucadu": 2, 
-      "Speed`": 2, 
-      "Taneb": 1, 
-      "hayashi": 1, 
-      "liamfraser": 1, 
-      "LordAro": 1, 
-      "marilla": 1
-    }, 
-    "2016-06-09": {
-      "barrucadu": 4, 
-      "frogba": 1, 
-      "_46": 1
-    }, 
-    "2016-06-08": {
-      "hayashi": 1, 
-      "Helzibah": 1, 
-      "_46": 2, 
-      "Taneb": 5
-    }, 
-    "2016-11-06": {
-      "mpod": 1, 
-      "barrucadu": 3, 
-      "mrfitzherbert": 1, 
-      "sdhand": 2, 
-      "Taneb": 2, 
-      "Alan": 2, 
-      "eep": 3, 
-      "hayashi": 12, 
-      "sweetbun": 1, 
-      "bjs": 2, 
-      "_46": 5, 
-      "ddm": 1, 
-      "nitia": 1
-    }, 
-    "2016-06-05": {
-      "hayashi": 1, 
-      "barrucadu": 2, 
-      "_46": 2
-    }, 
-    "2016-06-04": {
-      "_46": 2
-    }, 
-    "2016-06-07": {
-      "lupine": 1, 
-      "Helzibah": 1, 
-      "Alan": 1, 
-      "sweetbun": 2, 
-      "icydoge": 1, 
-      "DinCahill": 2, 
-      "nitia": 1
-    }, 
-    "2016-06-06": {
-      "icydoge": 2, 
-      "Taneb": 1, 
-      "Alan": 1, 
-      "_46": 2, 
-      "LordAro": 1, 
-      "quoboo": 1
-    }, 
-    "2016-06-01": {
-      "Helzibah": 1
-    }, 
-    "2016-06-03": {
-      "LordAro": 1, 
-      "barrucadu": 2, 
-      "bjs": 1, 
-      "_46": 2
-    }, 
-    "2016-06-02": {
-      "_46": 2
-    }, 
-    "2016-02-18": {
-      "laser`": 1, 
-      "mshenrick": 1, 
-      "Taneb": 2, 
-      "_46": 1, 
-      "hayashi": 2, 
-      "liamfraser": 1, 
-      "LordAro": 2
-    }, 
-    "2016-02-19": {
-      "barrucadu": 1, 
-      "icydoge": 1, 
-      "bjs": 1, 
-      "_46": 2
-    }, 
-    "2016-02-12": {
-      "Speed`": 1, 
-      "_46": 1, 
-      "hayashi": 3, 
-      "Mathison": 1, 
-      "sweetbun": 1, 
-      "liamfraser": 1, 
-      "LordAro": 1, 
-      "AlfBot275": 1, 
-      "frogba": 1
-    }, 
-    "2016-02-13": {
-      "hayashi": 1, 
-      "Taneb": 2, 
-      "_46": 2
-    }, 
-    "2016-02-10": {
-      "barrucadu": 2, 
-      "_46": 2, 
-      "hayashi": 4, 
-      "frogba": 1, 
-      "liamfraser": 1, 
-      "LordAro": 1, 
-      "AlfBot275": 1
-    }, 
-    "2016-02-11": {
-      "barrucadu": 2, 
-      "icydoge": 1, 
-      "Speed`": 1, 
-      "Alan": 1, 
-      "hayashi": 1, 
-      "bjs": 1, 
-      "lupine": 1, 
-      "liamfraser": 1
-    }, 
-    "2016-02-16": {
-      "barrucadu": 2, 
-      "DinCahill": 1, 
-      "hayashi": 2, 
-      "liamfraser": 1, 
-      "Speed`": 2
-    }, 
-    "2016-02-17": {
-      "hayashi": 4, 
-      "barrucadu": 1, 
-      "Alan": 1
-    }, 
-    "2016-02-14": {
-      "barrucadu": 1, 
-      "hayashi": 2, 
-      "_46": 1
-    }, 
-    "2016-02-15": {
-      "hayashi": 3, 
-      "AlfBot275": 1, 
-      "liamfraser": 1, 
-      "_46": 1
-    }, 
-    "2015-08-13": {
-      "jameseb": 2, 
-      "barrucadu": 2, 
-      "Taneb": 2, 
-      "_46": 2, 
-      "Helzibah": 1, 
-      "hayashi": 8, 
-      "Mathison": 1, 
-      "bjs": 1, 
-      "AlfBot275": 1
-    }, 
-    "2015-08-12": {
-      "barrucadu": 2, 
-      "mrfitzherbert": 1, 
-      "hayashi": 4, 
-      "marilla": 4, 
-      "Top_Cat": 1
-    }, 
-    "2015-08-11": {
-      "sam_w": 1, 
-      "icydoge": 1, 
-      "_46": 1, 
-      "hayashi": 7, 
-      "Mathison": 1, 
-      "bjs": 2, 
-      "Alan": 2, 
-      "LordAro": 4, 
-      "marilla": 1
-    }, 
-    "2015-08-10": {
-      "hayashi": 1, 
-      "Alan": 2, 
-      "julian-": 1
-    }, 
-    "2015-08-17": {
-      "hayashi": 1
-    }, 
-    "2015-08-16": {
-      "hayashi": 1, 
-      "Top_Cat": 1
-    }, 
-    "2015-08-15": {
-      "hayashi": 3, 
-      "LordAro": 1, 
-      "jameseb": 1
-    }, 
-    "2015-08-14": {
-      "barrucadu": 2, 
-      "frogba": 1, 
-      "Taneb": 2, 
-      "Alan": 1
-    }, 
-    "2015-08-19": {
-      "sweetbun": 1, 
-      "frogba": 2, 
-      "Helzibah": 2, 
-      "Alan": 2, 
-      "marilla": 1
-    }, 
-    "2015-08-18": {
-      "icydoge": 2, 
-      "dpk": 1, 
-      "Taneb": 1
-    }, 
-    "2015-03-18": {
-      "barrucadu": 1, 
-      "Helzibah": 1, 
-      "_46": 2, 
-      "hayashi": 1, 
-      "LordAro": 1, 
-      "AlfBot275": 2
-    }, 
-    "2015-11-08": {
-      "hayashi": 3, 
-      "LordAro": 1, 
-      "Alan": 1, 
-      "_46": 1, 
-      "Speed`": 1
-    }, 
-    "2015-11-09": {
-      "sam_w": 1, 
-      "barrucadu": 1, 
-      "Speed`": 1, 
-      "Alan": 1, 
-      "hayashi": 1, 
-      "liamfraser": 1, 
-      "bjs": 1, 
-      "marilla": 1
-    }, 
-    "2015-11-02": {
-      "hayashi": 2, 
-      "Alan": 1
-    }, 
-    "2015-11-03": {
-      "hayashi": 3, 
-      "Mathison": 1, 
-      "liamfraser": 1, 
-      "Alan": 1, 
-      "_46": 3
-    }, 
-    "2015-11-01": {
-      "barrucadu": 3, 
-      "icydoge": 2, 
-      "Speed`": 1, 
-      "_46": 2, 
-      "hayashi": 1, 
-      "tommylommykins": 1, 
-      "Alan": 1
-    }, 
-    "2015-11-06": {
-      "PfoD": 2, 
-      "barrucadu": 2, 
-      "icydoge": 1, 
-      "Speed`": 1, 
-      "Alan": 2, 
-      "hayashi": 1, 
-      "liamfraser": 1, 
-      "_46": 1, 
-      "LordAro": 1, 
-      "bjs": 2
-    }, 
-    "2015-11-07": {
-      "hayashi": 2, 
-      "_46": 1
-    }, 
-    "2015-11-04": {
-      "Sunshard": 1, 
-      "PfoD": 1, 
-      "barrucadu": 2, 
-      "icydoge": 2, 
-      "_46": 5, 
-      "hayashi": 5, 
-      "bjs": 2, 
-      "Alan": 2, 
-      "DinCahill": 1, 
-      "Alfie275": 1
-    }, 
-    "2015-11-05": {
-      "barrucadu": 4, 
-      "icydoge": 1, 
-      "Helzibah": 1, 
-      "_46": 2, 
-      "hayashi": 4, 
-      "Alan": 1, 
-      "prettygreat": 3, 
-      "marilla": 1
-    }, 
-    "2015-09-29": {
-      "Beornwulf": 1, 
-      "Oliver__________": 1, 
-      "icydoge": 1, 
-      "Taneb": 1, 
-      "Alan": 1, 
-      "Helzibah": 1, 
-      "hayashi": 2, 
-      "Mathison": 1, 
-      "DinCahill": 1, 
-      "Jixun": 1
-    }, 
-    "2015-09-28": {
-      "Helzibah": 1, 
-      "Jixun_pc": 1, 
-      "PfoD": 1, 
-      "barrucadu": 1, 
-      "Speed`": 1, 
-      "_46": 2, 
-      "Alan": 3, 
-      "hayashi": 5, 
-      "Mathison": 1, 
-      "liamfraser": 3, 
-      "Alfie275": 1, 
-      "bjs": 1, 
-      "DinCahill": 1, 
-      "Jixun": 2
-    }, 
-    "2015-09-25": {
-      "barrucadu": 1, 
-      "Alan": 1, 
-      "hayashi": 2, 
-      "sweetbun": 1, 
-      "_46": 1, 
-      "prettygreat": 1
-    }, 
-    "2015-09-24": {
-      "PfoD": 1, 
-      "barrucadu": 2, 
-      "icydoge": 1, 
-      "Taneb": 1, 
-      "hayashi": 2, 
-      "Mathison": 1, 
-      "bjs": 2
-    }, 
-    "2015-09-27": {
-      "icydoge": 2, 
-      "liamfraser": 2, 
-      "Jixun": 1, 
-      "_46": 1, 
-      "PfoD": 1
-    }, 
-    "2015-09-26": {
-      "tommylommykins": 1, 
-      "bjs": 1, 
-      "_46": 1
-    }, 
-    "2015-09-21": {
-      "barrucadu": 2, 
-      "hayashi": 2, 
-      "Alan": 1
-    }, 
-    "2015-03-10": {
-      "LordAro": 1, 
-      "icydoge": 2, 
-      "barrucadu": 2, 
-      "hayashi": 1, 
-      "Speed`": 2
-    }, 
-    "2015-09-23": {
-      "Taneb": 1, 
-      "_46": 1, 
-      "hayashi": 3, 
-      "Alan": 2, 
-      "AlfBot275": 1, 
-      "marilla": 3
-    }, 
-    "2015-09-22": {
-      "barrucadu": 2, 
-      "icydoge": 1, 
-      "hayashi": 1, 
-      "Mathison": 2, 
-      "liamfraser": 2, 
-      "bjs": 1, 
-      "AlfBot275": 1
-    }, 
-    "2015-03-11": {
-      "sam_w": 1, 
-      "_46": 1, 
-      "jameseb": 1, 
-      "icydoge": 1, 
-      "Speed`": 1, 
-      "Alan": 1, 
-      "hayashi": 2, 
-      "liamfraser": 1, 
-      "Alfie275": 3, 
-      "LordAro": 1
-    }, 
-    "2015-07-18": {
-      "LordAro": 1, 
-      "sweetbun": 1
-    }, 
-    "2015-07-19": {
-      "icydoge": 1, 
-      "c4sper": 1
-    }, 
-    "2015-07-16": {
-      "LordAro": 1, 
-      "Mathison": 1, 
-      "Alan": 2
-    }, 
-    "2015-07-17": {
-      "barrucadu": 2, 
-      "Taneb": 1, 
-      "_46": 3
-    }, 
-    "2015-07-14": {
-      "LordAro": 3, 
-      "barrucadu": 1, 
-      "sweetbun": 1, 
-      "Taneb": 1, 
-      "_46": 1
-    }, 
-    "2015-07-15": {
-      "hayashi": 1, 
-      "bjs": 1, 
-      "liamfraser": 1, 
-      "marilla": 1
-    }, 
-    "2015-07-12": {
-      "sweetbun": 1, 
-      "Frankablu": 1
-    }, 
-    "2015-07-13": {
-      "lupine": 1, 
-      "Taneb": 1, 
-      "hayashi": 1, 
-      "sweetbun": 1, 
-      "bjs": 1, 
-      "LordAro": 1
-    }, 
-    "2015-07-11": {
-      "Taneb": 1
-    }, 
-    "2015-12-21": {
-      "barrucadu": 1, 
-      "Mathison": 1, 
-      "Taneb": 1, 
-      "_46": 2, 
-      "AlfBot275": 1
-    }, 
-    "2015-12-20": {
-      "hayashi": 2, 
-      "prettygreat": 1, 
-      "Taneb": 1, 
-      "_46": 1, 
-      "Speed`": 1
-    }, 
-    "2015-12-23": {
-      "barrucadu": 2, 
-      "hayashi": 2, 
-      "MattWithOneT": 1, 
-      "asciid": 1
-    }, 
-    "2015-12-22": {
-      "LordAro": 3, 
-      "icydoge": 1, 
-      "hayashi": 2, 
-      "Speed`": 1, 
-      "_46": 1
-    }, 
-    "2015-12-25": {
-      "jameseb": 1, 
-      "_46": 1, 
-      "hayashi": 1, 
-      "Mathison": 1, 
-      "sweetbun": 1, 
-      "LordAro": 1
-    }, 
-    "2015-12-24": {
-      "LordAro": 1, 
-      "icydoge": 1, 
-      "bjs": 1, 
-      "Taneb": 1
-    }, 
-    "2015-12-27": {
-      "hayashi": 2, 
-      "LordAro": 1, 
-      "_46": 1
-    }, 
-    "2015-12-26": {
-      "AlfBot275": 1, 
-      "bjs": 1, 
-      "liamfraser": 1, 
-      "Taneb": 1, 
-      "_46": 1
-    }, 
-    "2015-12-29": {
-      "hayashi": 1, 
-      "DinCahill": 1
-    }, 
-    "2015-12-28": {
-      "LordAro": 1, 
-      "icydoge": 1, 
-      "_46": 1
-    }, 
-    "2016-03-04": {
-      "hayashi": 1, 
-      "HackSocRoom": 1, 
-      "_46": 1
-    }, 
-    "2016-03-05": {
-      "hayashi": 3, 
-      "icydoge": 1, 
-      "bjs": 3
-    }, 
-    "2016-03-02": {
-      "daeghnao": 1, 
-      "icydoge": 1, 
-      "Taneb": 1, 
-      "_46": 2, 
-      "Speed`": 1, 
-      "hayashi": 1, 
-      "liamfraser": 3, 
-      "Alan": 1, 
-      "bjs": 1, 
-      "AlfBot275": 1, 
-      "mpod": 1
-    }, 
-    "2016-03-03": {
-      "adamttemp": 1, 
-      "barrucadu": 1, 
-      "Speed`": 1, 
-      "_46": 5, 
-      "sweetbun": 5, 
-      "DinCahill": 1, 
-      "nitia": 1
-    }, 
-    "2016-07-03": {
-      "hayashi": 2, 
-      "AlfBot275": 1, 
-      "bjs": 1, 
-      "nitia": 1
-    }, 
-    "2016-03-01": {
-      "lupine": 1, 
-      "Helzibah": 1, 
-      "_46": 2, 
-      "hayashi": 1, 
-      "liamfraser": 4, 
-      "marilla": 1
-    }, 
-    "2016-01-19": {
-      "barrucadu": 3, 
-      "bamberbiz": 1, 
-      "Helzibah": 1, 
-      "Alan": 1, 
-      "yukibot": 1, 
-      "_46": 3, 
-      "LordAro": 2
-    }, 
-    "2016-01-18": {
-      "Mathison": 1, 
-      "bjs": 2, 
-      "Helzibah": 1, 
-      "Alan": 1
-    }, 
-    "2016-01-13": {
-      "barrucadu": 3, 
-      "Helzibah": 1, 
-      "_46": 1, 
-      "hayashi": 2, 
-      "Alan": 1, 
-      "LordAro": 1
-    }, 
-    "2016-01-12": {
-      "barrucadu": 1, 
-      "Taneb": 1, 
-      "_46": 3
-    }, 
-    "2016-01-11": {
-      "Skeflas": 1, 
-      "Speed`": 1, 
-      "Helzibah": 1, 
-      "_46": 3, 
-      "Taneb": 1, 
-      "hayashi": 12, 
-      "Alan": 1
-    }, 
-    "2016-01-10": {
-      "barrucadu": 1, 
-      "LordAro": 1, 
-      "_46": 2
-    }, 
-    "2016-01-17": {
-      "hayashi": 3, 
-      "bjs": 2, 
-      "Speed`": 1, 
-      "nitia": 1
-    }, 
-    "2016-01-16": {
-      "hayashi": 1, 
-      "_46": 1
-    }, 
-    "2016-01-15": {
-      "hayashi": 8, 
-      "LordAro": 1, 
-      "Taneb": 1, 
-      "Alan": 1, 
-      "icydoge": 1
-    }, 
-    "2016-01-14": {
-      "barrucadu": 4, 
-      "hayashi": 1, 
-      "bjs": 2, 
-      "_46": 1
-    }, 
-    "2015-03-23": {
-      "jameseb": 1, 
-      "barrucadu": 1, 
-      "Alan": 2, 
-      "hayashi": 4, 
-      "Mathison": 1, 
-      "sweetbun": 1
-    }, 
-    "2015-03-22": {
-      "barrucadu": 1, 
-      "sweetbun": 1, 
-      "_46": 2, 
-      "nitia": 1
-    }, 
-    "2015-03-21": {
-      "hayashi": 2, 
-      "icydoge": 1
-    }, 
-    "2015-03-20": {
-      "barrucadu": 1, 
-      "Speed`": 1, 
-      "Taneb": 2, 
-      "_46": 1, 
-      "marilla": 1, 
-      "hayashi": 3, 
-      "Frankablu": 1
-    }, 
-    "2015-03-27": {
-      "hayashi": 5, 
-      "AlfBot275": 2, 
-      "barrucadu": 1, 
-      "jameseb": 1
-    }, 
-    "2015-03-26": {
-      "sam_w": 1, 
-      "jameseb": 1, 
-      "Helzibah": 1, 
-      "Alan": 4, 
-      "Taneb": 1, 
-      "hayashi": 1, 
-      "liamfraser": 2, 
-      "marilla": 2
-    }, 
-    "2015-03-25": {
-      "barrucadu": 1, 
-      "qlkzy": 2, 
-      "Alan": 1, 
-      "hayashi": 3, 
-      "Tinned_Tuna": 1, 
-      "liamfraser": 3, 
-      "_46": 1, 
-      "LordAro": 1, 
-      "AlfBot275": 1
-    }, 
-    "2015-03-24": {
-      "barrucadu": 2, 
-      "Alan": 1, 
-      "hayashi": 4, 
-      "qlkzy": 1, 
-      "_46": 1, 
-      "Tinned_Tuna": 1
-    }, 
-    "2015-03-29": {
-      "barrucadu": 1, 
-      "Dazzozo": 1, 
-      "hayashi": 2, 
-      "sweetbun": 1, 
-      "qlkzy": 1, 
-      "_46": 2, 
-      "nitia": 1
-    }, 
-    "2015-03-28": {
-      "hayashi": 4, 
-      "sweetbun": 1, 
-      "Taneb": 1, 
-      "_46": 2
-    }, 
-    "2015-06-02": {
-      "Skeflas": 1, 
-      "barrucadu": 5, 
-      "icydoge": 1, 
-      "_46": 2, 
-      "hayashi": 4, 
-      "liamfraser": 1, 
-      "LordAro": 2, 
-      "DinCahill": 1
-    }, 
-    "2015-06-03": {
-      "hayashi": 1, 
-      "Skeflas": 1, 
-      "tommylommykins": 1, 
-      "Taneb": 1, 
-      "_46": 1
-    }, 
-    "2015-06-01": {
-      "LloydW": 1, 
-      "entity_": 1, 
-      "icydoge": 1, 
-      "_46": 1, 
-      "hayashi": 4, 
-      "liamfraser": 2, 
-      "Alfie275": 1, 
-      "LordAro": 1
-    }, 
-    "2015-06-06": {
-      "hayashi": 1, 
-      "LordAro": 1, 
-      "_46": 2, 
-      "Mathison": 1
-    }, 
-    "2015-06-07": {
-      "hayashi": 1
-    }, 
-    "2015-04-19": {
-      "LloydW": 1, 
-      "laser`": 1, 
-      "icydoge": 1, 
-      "_46": 2, 
-      "alfioemanuele": 1, 
-      "LordAro": 1
-    }, 
-    "2015-04-18": {
-      "Sourceless": 1
-    }, 
-    "2015-04-17": {
-      "hayashi": 1, 
-      "Sourceless": 1, 
-      "_46": 1
-    }, 
-    "2015-04-16": {
-      "entity_": 1, 
-      "jameseb": 1, 
-      "webpigeon2": 1, 
-      "Taneb": 1, 
-      "Alan": 3, 
-      "hayashi": 1, 
-      "sweetbun": 4, 
-      "liamfraser": 1, 
-      "_46": 2, 
-      "LordAro": 2, 
-      "AlfBot275": 4
-    }, 
-    "2015-04-15": {
-      "Skeflas": 1, 
-      "laser`": 1, 
-      "barrucadu": 1, 
-      "_46": 1, 
-      "hayashi": 4, 
-      "Manguise": 1, 
-      "liamfraser": 1, 
-      "AlfBot275": 1
-    }, 
-    "2015-04-14": {
-      "Speed`": 1, 
-      "Taneb": 1, 
-      "Alan": 1, 
-      "Helzibah": 1, 
-      "mrkwse": 1, 
-      "nitia": 1
-    }, 
-    "2015-04-13": {
-      "jameseb": 1, 
-      "qlkzy": 1, 
-      "Helzibah": 1, 
-      "_46": 1, 
-      "liamfraser": 1, 
-      "LordAro": 1, 
-      "AlfBot275": 1
-    }, 
-    "2015-04-12": {
-      "hayashi": 2, 
-      "LordAro": 1, 
-      "sam_w": 1, 
-      "marilla": 1, 
-      "_46": 1
-    }, 
-    "2015-04-11": {
-      "entity_": 2, 
-      "barrucadu": 1, 
-      "icydoge": 1, 
-      "hayashi": 1, 
-      "sweetbun": 2, 
-      "KappaBot": 1
-    }, 
-    "2015-04-10": {
-      "barrucadu": 5, 
-      "Speed`": 1, 
-      "Alan": 1, 
-      "Taneb": 2, 
-      "hayashi": 3, 
-      "LordAro": 2, 
-      "Alfie275": 1, 
-      "Tinned_Tuna": 1, 
-      "marilla": 1
-    }, 
-    "2016-07-24": {
-      "daeghnao": 1, 
-      "barrucadu": 2, 
-      "icydoge": 1, 
-      "_46": 3, 
-      "hayashi": 2, 
-      "lauren^": 1, 
-      "LordAro": 2
-    }, 
-    "2016-07-25": {
-      "_46": 1
-    }, 
-    "2016-07-26": {
-      "hayashi": 1, 
-      "quoboo": 1, 
-      "LordAro": 1, 
-      "lauren^": 1
-    }, 
-    "2016-07-27": {
-      "nitia": 1, 
-      "_46": 2, 
-      "bjs": 1, 
-      "Helzibah": 1, 
-      "Alan": 1
-    }, 
-    "2015-05-18": {
-      "barrucadu": 4, 
-      "_46": 3, 
-      "hayashi": 4, 
-      "Mathison": 2, 
-      "qlkzy": 1, 
-      "LordAro": 2, 
-      "DinCahill": 1
-    }, 
-    "2016-07-21": {
-      "barrucadu": 4, 
-      "icydoge": 1, 
-      "LordAro": 1, 
-      "hayashi": 2, 
-      "_46": 4
-    }, 
-    "2016-07-22": {
-      "laser`": 1, 
-      "barrucadu": 1, 
-      "icydoge": 2, 
-      "Alfie275": 1, 
-      "AlfBot275": 1, 
-      "nitia": 3
-    }, 
-    "2016-07-23": {
-      "icydoge": 1, 
-      "Taneb": 2, 
-      "_46": 3, 
-      "hayashi": 1, 
-      "bjs": 1, 
-      "lauren^": 1, 
-      "AlfBot275": 3, 
-      "DinCahill": 2
-    }, 
-    "2016-11-18": {
       "sdhand": 3, 
-      "Helzibah": 1, 
-      "_46": 2, 
-      "hayashi": 1, 
-      "Beornwulf": 1, 
-      "ddm": 1, 
-      "LordAro": 1, 
-      "mpod": 1
-    }, 
-    "2016-11-19": {
-      "barrucadu": 1, 
-      "sdhand": 10, 
       "eep": 5, 
-      "_46": 2, 
-      "Helzibah": 2, 
-      "hayashi": 5, 
-      "Manguise": 1, 
-      "bjs": 1, 
-      "Alan": 1, 
-      "ddm": 17, 
-      "DinCahill": 1, 
-      "marilla": 2, 
-      "nitia": 4
+      "ddm": 3
     }, 
-    "2015-06-04": {
-      "jameseb": 1, 
-      "barrucadu": 2, 
-      "Taneb": 2, 
-      "Alan": 1, 
-      "hayashi": 7, 
-      "LordAro": 1, 
-      "DinCahill": 1
+    "2015-08-31": {
+      "hayashi": 1
     }, 
-    "2015-05-10": {
+    "2016-11-29": {
       "hayashi": 2, 
-      "LordAro": 2, 
-      "Taneb": 1, 
-      "trebekbot": 1
+      "Manguise": 2, 
+      "sam[w]": 4, 
+      "sdhand": 3, 
+      "mpod": 2
     }, 
-    "2015-06-05": {
+    "2016-11-28": {
+      "ddm": 2, 
       "barrucadu": 1, 
+      "sdhand": 4, 
+      "Taneb": 6, 
       "hayashi": 1, 
-      "tommylommykins": 1, 
-      "Taneb": 3, 
-      "_46": 2
-    }, 
-    "2016-10-03": {
-      "icydoge": 1, 
-      "sdhand": 2, 
-      "AlfBot275": 1
-    }, 
-    "2015-05-11": {
-      "sam_w": 1, 
-      "mrfitzherbert": 1, 
-      "Speed`": 1, 
-      "_46": 3, 
-      "Alan": 2, 
-      "hayashi": 5, 
-      "Beornwulf": 1, 
-      "sweetbun": 3, 
-      "liamfraser": 1, 
-      "Alfie275": 1, 
-      "LordAro": 2
-    }, 
-    "2016-05-26": {
-      "marilla": 1, 
-      "_46": 1, 
-      "Taneb": 1
-    }, 
-    "2016-05-27": {
-      "Alan": 1, 
-      "_46": 3
-    }, 
-    "2016-05-24": {
-      "barrucadu": 1, 
-      "Helzibah": 3, 
-      "Alan": 1, 
-      "frogba": 2, 
-      "Nondeterminism": 1, 
-      "marilla": 1, 
-      "nitia": 1
-    }, 
-    "2016-05-25": {
-      "icydoge": 1, 
-      "Helzibah": 1, 
-      "hayashi": 1, 
-      "sweetbun": 4, 
-      "bjs": 3, 
-      "quoboo": 1, 
-      "marilla": 1
-    }, 
-    "2016-05-22": {
-      "barrucadu": 1, 
       "bjs": 1, 
-      "Alan": 2
-    }, 
-    "2016-05-23": {
-      "LordAro": 1, 
-      "_46": 2
-    }, 
-    "2016-05-20": {
-      "Speed`": 1, 
-      "_46": 1
-    }, 
-    "2016-05-21": {
-      "barrucadu": 3, 
-      "likzo": 2, 
-      "bjs": 1, 
-      "Alan": 1, 
-      "Beornwulf": 1
-    }, 
-    "2015-06-08": {
-      "jameseb": 1, 
-      "Alan": 2, 
-      "hayashi": 2, 
-      "liamfraser": 1, 
-      "Alfie275": 1, 
-      "AlfBot275": 1, 
-      "marilla": 1
-    }, 
-    "2016-05-28": {
-      "barrucadu": 1, 
-      "lupine": 4, 
-      "_46": 1, 
-      "bjs": 1, 
-      "Alan": 1, 
-      "LordAro": 1
-    }, 
-    "2016-05-29": {
-      "hayashi": 2, 
-      "icydoge": 1, 
-      "frogba": 1, 
-      "_46": 3, 
-      "liamfraser_": 1
-    }, 
-    "2015-06-09": {
-      "barrucadu": 3, 
-      "hayashi": 1, 
-      "Taneb": 1, 
-      "Alan": 1
-    }, 
-    "2016-11-14": {
-      "icydoge": 5, 
-      "sdhand": 9, 
-      "Taneb": 1, 
-      "_46": 1, 
-      "bjs": 1, 
-      "ddm": 8, 
-      "nitia": 4
-    }, 
-    "2016-11-15": {
-      "Alfie275": 2, 
-      "barrucadu": 6, 
-      "icydoge": 1, 
-      "sdhand": 26, 
-      "Helzibah": 2, 
-      "Alan": 2, 
-      "Taneb": 1, 
-      "Beornwulf": 1, 
-      "_46": 5, 
-      "ddm": 23, 
-      "LordAro": 3, 
-      "AlfBot275": 1, 
-      "marilla": 10, 
-      "eep": 1
-    }, 
-    "2016-11-30": {
-      "DinCahill": 1, 
-      "Taneb": 1, 
-      "mrfitzherbert": 1, 
-      "eep": 5, 
-      "nit18": 4, 
-      "hayashi": 5, 
-      "bjs": 1, 
-      "ddm": 3, 
-      "icydoge": 1, 
-      "quoboo": 2, 
-      "_25": 5, 
-      "marilla": 1
-    }, 
-    "2015-08-28": {
-      "bjs": 1, 
-      "Taneb": 1, 
-      "Frankablu": 1
-    }, 
-    "2015-08-29": {
-      "bjs": 1, 
-      "_46": 2
-    }, 
-    "2015-08-23": {
-      "LordAro": 1
-    }, 
-    "2015-08-20": {
-      "Alan": 3, 
-      "_46": 1
-    }, 
-    "2015-08-21": {
-      "barrucadu": 1, 
-      "Beornwulf": 2, 
-      "marilla": 1
-    }, 
-    "2015-08-26": {
-      "Oliver__________": 1, 
-      "barrucadu": 1, 
-      "icydoge": 1, 
-      "Taneb": 2, 
-      "_46": 1, 
-      "hayashi": 1, 
-      "sweetbun": 1, 
-      "Alan": 1, 
-      "LordAro": 2
-    }, 
-    "2015-08-27": {
-      "hayashi": 10, 
-      "Beornwulf": 1, 
-      "sweetbun": 1, 
-      "liamfraser": 2, 
-      "Speed`": 1
-    }, 
-    "2015-08-24": {
-      "hayashi": 4, 
-      "AlfBot275": 2, 
-      "marilla": 3, 
-      "Alan": 1, 
-      "Taneb": 1
-    }, 
-    "2015-08-25": {
-      "sam_w": 1, 
-      "Taneb": 5, 
-      "Alan": 1, 
-      "hayashi": 3, 
-      "sweetbun": 1, 
-      "marilla": 1
-    }, 
-    "2016-11-22": {
-      "barrucadu": 2, 
-      "eep": 6, 
-      "Helzibah": 1, 
-      "Alan": 1, 
-      "Taneb": 5, 
-      "hayashi": 4, 
-      "bjs": 1, 
-      "ddm": 7, 
-      "LordAro": 2, 
-      "AlfBot275": 1, 
-      "nitia": 2, 
-      "sam[0]": 11
-    }, 
-    "2016-08-07": {
-      "quoboo": 1, 
-      "sam_w": 1
-    }, 
-    "2015-04-26": {
-      "hayashi": 1, 
-      "sweetbun": 1, 
-      "Speed`": 3, 
-      "_46": 1, 
-      "Alfie275": 2
-    }, 
-    "2015-04-27": {
-      "Skeflas": 1, 
-      "liamfraser": 2
-    }, 
-    "2015-04-24": {
-      "jameseb": 2, 
-      "qlkzy": 1, 
-      "_46": 1, 
-      "hayashi": 2, 
-      "Mathison": 1, 
-      "sweetbun": 1, 
-      "liamfraser": 3, 
-      "DinCahill": 1
-    }, 
-    "2015-04-25": {
-      "entity_": 2, 
-      "Speed`": 1, 
-      "_46": 1, 
-      "Taneb": 1, 
-      "qlkzy": 3, 
-      "liamfraser": 4
-    }, 
-    "2015-04-22": {
-      "LordAro": 1, 
-      "Beornwulf": 1, 
-      "liamfraser": 1, 
-      "DinCahill": 1
-    }, 
-    "2015-04-23": {
-      "sam_w": 1, 
-      "entity_": 1, 
-      "icydoge": 1, 
-      "Speed`": 1, 
-      "_46": 1, 
-      "Beornwulf": 1, 
-      "sweetbun": 1, 
-      "liamfraser": 3, 
-      "Alan": 1, 
-      "qlkzy": 2
-    }, 
-    "2015-04-20": {
-      "hayashi": 4, 
-      "HackSocRoom": 1, 
-      "ilyagetready": 1, 
-      "Speed`": 1, 
-      "_46": 2
-    }, 
-    "2015-04-21": {
-      "entity_": 1, 
-      "Alan": 3, 
-      "hayashi": 7, 
-      "Mathison": 1, 
-      "liamfraser": 2, 
-      "_46": 1, 
-      "mrkwse": 1
-    }, 
-    "2016-11-24": {
-      "barrucadu": 1, 
-      "icydoge": 1, 
-      "eep": 6, 
-      "Alan": 1, 
-      "Helzibah": 1, 
-      "hayashi": 6, 
-      "bjs": 7, 
-      "ddm": 15, 
-      "DinCahill": 2, 
-      "LordAro": 1, 
-      "quoboo": 1, 
-      "nitia": 6, 
-      "sam[0]": 6
-    }, 
-    "2016-07-08": {
-      "barrucadu": 1, 
-      "LordAro": 1, 
-      "bjs": 1, 
-      "marilla": 1
-    }, 
-    "2015-04-28": {
-      "Skeflas": 2, 
-      "jameseb": 2, 
-      "barrucadu": 1, 
-      "mrfitzherbert": 1, 
-      "Taneb": 2, 
-      "_46": 1, 
-      "hayashi": 1, 
-      "Alfie275": 2, 
-      "AlfBot275": 1, 
-      "nitia": 1
-    }, 
-    "2015-04-29": {
-      "sam_w": 4, 
-      "Speed`": 2, 
-      "Alan": 2, 
-      "hayashi": 2, 
-      "Beornwulf": 2, 
-      "liamfraser": 4, 
-      "LordAro": 2
-    }, 
-    "2016-04-18": {
-      "Helzibah": 1, 
-      "barrucadu": 1, 
-      "Taneb": 1, 
-      "Speed`": 1, 
-      "hayashi": 3, 
-      "sweetbun": 2, 
-      "marilla": 4
-    }, 
-    "2016-04-19": {
-      "hayashi": 2
-    }, 
-    "2016-04-14": {
-      "hayashi": 1, 
-      "Taneb": 1
-    }, 
-    "2016-04-15": {
-      "bjs": 1, 
-      "_46": 1
-    }, 
-    "2016-04-16": {
-      "hayashi": 1, 
-      "icydoge": 1, 
-      "Taneb": 1
-    }, 
-    "2016-04-17": {
-      "sam_w": 1, 
-      "barrucadu": 1, 
-      "mrfitzherbert": 1, 
-      "hayashi": 1, 
-      "sweetbun": 1, 
-      "liamfraser": 1, 
-      "LordAro": 2, 
-      "AlfBot275": 1
-    }, 
-    "2016-04-10": {
-      "Sourceless": 1, 
-      "Taneb": 1, 
-      "_46": 1, 
-      "Alan": 1, 
-      "LordAro": 1, 
-      "quoboo": 1, 
-      "nitia": 2
-    }, 
-    "2016-04-11": {
-      "LordAro": 1, 
-      "hayashi": 3, 
-      "_46": 1, 
-      "icydoge": 1
-    }, 
-    "2016-04-12": {
-      "barrucadu": 1, 
-      "hayashi": 1, 
-      "sam_w": 1, 
-      "Speed`": 1
-    }, 
-    "2016-04-13": {
-      "LordAro": 1, 
-      "Mathison": 2, 
-      "sweetbun": 1, 
-      "_46": 2, 
-      "nitia": 1
-    }, 
-    "2016-07-09": {
-      "hayashi": 6
+      "nit1a": 2, 
+      "sam[w]": 1
     }, 
     "2016-10-20": {
-      "Rryy": 12, 
-      "barrucadu": 1, 
-      "mrfitzherbert": 1, 
-      "sdhand": 11, 
-      "eep": 15, 
-      "_46": 11, 
-      "Taneb": 9, 
-      "hayashi": 30, 
-      "Mathison": 1, 
-      "sweetbun": 1, 
-      "ddm": 4, 
-      "LordAro": 3, 
-      "AlfBot275": 1, 
-      "marilla": 3, 
-      "nitia": 8
+      "Rryy": 8, 
+      "sdhand": 8, 
+      "eep": 10, 
+      "_46": 2, 
+      "Taneb": 2, 
+      "hayashi": 18, 
+      "ddm": 3, 
+      "nitia": 5
     }, 
     "2016-10-21": {
-      "daeghnao": 1, 
-      "Guest97414": 1, 
-      "eep": 5, 
-      "eep_": 1, 
-      "qlkzy": 1, 
-      "j6mes": 1, 
       "barrucadu": 1, 
-      "ddm": 7, 
-      "LordAro": 2, 
-      "mpod": 1, 
       "icydoge": 1, 
-      "_46": 8, 
-      "Taneb": 1, 
-      "hayashi": 17, 
-      "oop": 2, 
-      "quoboo": 1, 
-      "marilla": 2, 
-      "Mathison": 1, 
-      "mrfitzherbert": 2, 
-      "sdhand": 12, 
-      "Helzibah": 3, 
-      "bjs": 4
+      "sdhand": 6, 
+      "eep": 4, 
+      "hayashi": 7, 
+      "eep_": 1, 
+      "bjs": 2, 
+      "oop": 1, 
+      "ddm": 5, 
+      "LordAro": 1, 
+      "marilla": 2
     }, 
     "2016-10-22": {
-      "ddm": 1, 
-      "barrucadu": 2, 
-      "sdhand": 18, 
-      "eep": 10, 
-      "_46": 3, 
-      "Alan": 1, 
-      "hayashi": 24, 
+      "sdhand": 12, 
+      "eep": 4, 
+      "_46": 1, 
+      "hayashi": 11, 
       "qlkzy": 1, 
-      "Alfie275": 4, 
+      "Alfie275": 3, 
       "bjs": 1, 
       "LordAro": 1, 
       "quoboo": 2, 
-      "marilla": 1, 
-      "nitia": 3
+      "nitia": 1
     }, 
     "2016-10-23": {
-      "barrucadu": 2, 
       "mrfitzherbert": 1, 
-      "sdhand": 4, 
+      "sdhand": 2, 
       "Taneb": 2, 
-      "_46": 1, 
-      "eep": 5, 
-      "hayashi": 16, 
-      "bjs": 1, 
-      "Alfie275": 1, 
-      "ddm": 2, 
-      "LordAro": 2, 
-      "marilla": 3, 
+      "eep": 2, 
+      "hayashi": 10, 
+      "LordAro": 1, 
       "nitia": 1
     }, 
     "2016-10-24": {
-      "LloydW": 1, 
-      "Taneb": 1, 
-      "barrucadu": 2, 
-      "mrfitzherbert": 1, 
-      "sdhand": 16, 
-      "eep": 5, 
-      "_46": 1, 
-      "Helzibah": 1, 
-      "hayashi": 20, 
-      "eep_": 4, 
-      "Alan": 1, 
-      "ddm": 5, 
-      "LordAro": 2, 
-      "quoboo": 2, 
-      "marilla": 1, 
-      "nitia": 3
-    }, 
-    "2016-08-06": {
-      "barrucadu": 2, 
-      "_46": 1
-    }, 
-    "2016-10-26": {
-      "barrucadu": 1, 
-      "sdhand": 7, 
-      "Taneb": 3, 
-      "Helzibah": 1, 
-      "hayashi": 16, 
-      "bjs": 3, 
-      "ddm": 3, 
-      "LordAro": 1, 
-      "marilla": 1, 
-      "nitia": 3, 
-      "eep": 7
-    }, 
-    "2016-10-27": {
-      "barrucadu": 1, 
-      "icydoge": 3, 
-      "sdhand": 12, 
-      "eep": 4, 
-      "Alan": 2, 
-      "Taneb": 2, 
-      "hayashi": 13, 
-      "ddm": 3, 
-      "LordAro": 1, 
-      "quoboo": 2, 
-      "prettygreat": 1, 
-      "nitia": 1
-    }, 
-    "2016-10-28": {
-      "Taneb": 2, 
-      "eep": 7, 
-      "Mathison": 1, 
-      "TheRealEep": 1, 
-      "bjs": 3, 
-      "HackSocDoom": 3, 
-      "barrucadu": 2, 
-      "Alan": 1, 
-      "ddm": 6, 
-      "LordAro": 1, 
-      "sam_w": 4, 
-      "icydoge": 2, 
-      "_46": 1, 
+      "sdhand": 10, 
+      "eep": 2, 
       "hayashi": 9, 
-      "sweetbun": 1, 
-      "nitia": 1, 
-      "Rryy": 1, 
-      "sdhand": 7, 
-      "Helzibah": 4, 
-      "LightningPanda": 1, 
-      "slash-nick": 1, 
-      "dpk": 1
-    }, 
-    "2016-10-29": {
-      "PfoD": 1, 
-      "icydoge": 4, 
-      "sdhand": 7, 
-      "eep": 8, 
-      "_46": 2, 
-      "hayashi": 1, 
-      "tommylommykins": 2, 
-      "bjs": 3, 
-      "Alan": 2, 
+      "eep_": 5, 
       "ddm": 3, 
-      "eeeep": 1, 
-      "quoboo": 1, 
-      "nitia": 1
-    }, 
-    "2016-08-05": {
-      "Alan": 1, 
-      "_46": 2
-    }, 
-    "2016-09-30": {
-      "laser`": 1, 
-      "barrucadu": 1, 
-      "qlkzy": 1, 
-      "Taneb": 1, 
-      "_46": 1, 
-      "hayashi": 2, 
-      "bjs": 4, 
-      "quoboo": 1, 
+      "LordAro": 1, 
+      "quoboo": 2, 
       "marilla": 1
     }, 
-    "2016-01-22": {
-      "Helzibah": 1, 
-      "hayashi": 1, 
-      "Mathison": 1, 
-      "frogba": 1, 
-      "bjs": 1, 
-      "AlfBot275": 1
-    }, 
-    "2016-01-23": {
-      "LordAro": 1, 
-      "Taneb": 1
-    }, 
-    "2016-01-20": {
-      "hayashi": 1, 
-      "Beornwulf": 1, 
-      "LordAro": 1, 
-      "liamfraser": 2, 
-      "_46": 1
-    }, 
-    "2016-01-21": {
-      "PfoD": 1, 
-      "barrucadu": 2, 
+    "2016-10-25": {
+      "Rryy": 3, 
+      "jameseb": 1, 
+      "icydoge": 1, 
+      "sdhand": 7, 
+      "eep": 4, 
       "Taneb": 2, 
+      "hayashi": 6, 
+      "bjs": 1
+    }, 
+    "2016-10-26": {
+      "sdhand": 3, 
+      "Taneb": 2, 
+      "eep": 3, 
+      "hayashi": 10, 
+      "bjs": 2, 
+      "nitia": 2
+    }, 
+    "2016-10-27": {
+      "hayashi": 4, 
+      "sdhand": 6, 
+      "eep": 1
+    }, 
+    "2016-10-28": {
+      "LightningPanda": 2, 
+      "sam_w": 3, 
+      "HackSocDoom": 2, 
+      "sdhand": 7, 
+      "eep": 2, 
       "Alan": 1, 
-      "hayashi": 1, 
-      "LordAro": 1, 
+      "hayashi": 7, 
+      "TheRealEep": 1, 
+      "_46": 1, 
+      "ddm": 3, 
+      "slash-nick": 1, 
       "nitia": 1
     }, 
+    "2016-10-29": {
+      "hayashi": 1, 
+      "icydoge": 3, 
+      "sdhand": 4, 
+      "ddm": 1, 
+      "PfoD": 1
+    }, 
+    "2015-10-16": {
+      "LordAro": 1
+    }, 
+    "2016-07-15": {
+      "hayashi": 2
+    }, 
+    "2015-10-11": {
+      "hayashi": 1
+    }, 
+    "2016-07-19": {
+      "quoboo": 1
+    }, 
+    "2016-04-03": {
+      "hayashi": 1
+    }, 
+    "2016-01-21": {
+      "hayashi": 1
+    }, 
     "2016-01-26": {
-      "barrucadu": 2, 
-      "hayashi": 4, 
-      "Helzibah": 2, 
-      "_46": 4
+      "hayashi": 1
     }, 
     "2016-01-27": {
-      "barrucadu": 3, 
-      "Taneb": 1, 
-      "Alan": 1, 
-      "hayashi": 2, 
-      "Beornwulf": 1, 
-      "LordAro": 2
+      "hayashi": 2
     }, 
     "2016-01-24": {
       "LordAro": 1, 
-      "hayashi": 4, 
-      "liamfraser": 1, 
-      "Taneb": 1, 
-      "Alan": 1
-    }, 
-    "2016-01-25": {
-      "barrucadu": 2, 
-      "Helzibah": 3, 
-      "_46": 2, 
-      "hayashi": 2, 
-      "bjs": 1, 
-      "LordAro": 1, 
-      "liamfraser": 1
+      "hayashi": 2
     }, 
     "2015-03-12": {
-      "Speed`": 2, 
-      "_46": 3, 
-      "hayashi": 4, 
-      "sweetbun": 1, 
-      "qlkzy": 4, 
-      "LordAro": 2, 
-      "liamfraser": 1
-    }, 
-    "2015-03-13": {
-      "sam_w": 1, 
-      "Mathison": 1, 
-      "barrucadu": 1, 
-      "icydoge": 1, 
-      "Speed`": 2, 
-      "_46": 2, 
-      "hayashi": 2, 
-      "Beornwulf": 1, 
-      "liamfraser": 2, 
-      "LordAro": 4, 
-      "qlkzy": 1
+      "LordAro": 1
     }, 
     "2016-01-28": {
-      "barrucadu": 1, 
-      "icydoge": 1, 
-      "Taneb": 1, 
-      "_46": 2, 
-      "hayashi": 4, 
-      "liamfraser": 2, 
-      "Alan": 2
+      "hayashi": 1
     }, 
-    "2016-01-29": {
-      "barrucadu": 3, 
-      "hayashi": 1, 
-      "Helzibah": 1, 
-      "_46": 1, 
-      "Alan": 2
-    }, 
-    "2015-03-16": {
-      "entity_": 8, 
-      "icydoge": 1, 
-      "Taneb": 1, 
-      "_46": 3, 
-      "hayashi": 10, 
-      "Tinned_Tuna": 2, 
-      "tommylommykins": 2, 
-      "qlkzy": 2, 
-      "Alan": 1, 
-      "LordAro": 3, 
-      "AlfBot275": 1, 
-      "marilla": 4
+    "2016-06-06": {
+      "quoboo": 1
     }, 
     "2015-03-17": {
-      "barrucadu": 1, 
-      "Helzibah": 1, 
-      "_46": 1, 
-      "hayashi": 3, 
-      "asweetbun": 1, 
-      "qlkzy": 1, 
-      "Alan": 1, 
-      "LordAro": 2
+      "Helzibah": 1
     }, 
-    "2015-03-14": {
-      "barrucadu": 1, 
-      "Taneb": 1, 
-      "_46": 1, 
-      "Speed`": 1, 
-      "hayashi": 2, 
-      "sweetbun": 1, 
-      "qlkzy": 1, 
-      "Alan": 1, 
-      "LordAro": 1, 
-      "AlfBot275": 1
-    }, 
-    "2015-03-15": {
-      "barrucadu": 1, 
-      "mrfitzherbert": 1, 
-      "hayashi": 2, 
-      "qlkzy": 4, 
-      "LordAro": 1, 
-      "AlfBot275": 1
-    }, 
-    "2015-10-05": {
-      "PfoD": 3, 
-      "barrucadu": 1, 
+    "2016-10-31": {
+      "Rryyp": 1, 
       "icydoge": 1, 
-      "Alan": 1, 
-      "Beornwulf": 1, 
-      "bjs": 5
+      "sdhand": 2, 
+      "eep": 2, 
+      "_46": 1, 
+      "Taneb": 1, 
+      "hayashi": 7, 
+      "LordAro": 1, 
+      "nitia": 2
     }, 
-    "2015-10-04": {
-      "barrucadu": 1, 
+    "2016-10-30": {
       "hayashi": 4, 
-      "jixun": 1, 
-      "icydoge": 1, 
-      "AlfBot275": 1
+      "eeeep": 1
     }, 
-    "2015-10-07": {
-      "hayashi": 3, 
-      "liamfraser": 1, 
-      "PfoD": 1, 
-      "prettygreat": 1, 
-      "icydoge": 1
+    "2016-02-10": {
+      "LordAro": 1
     }, 
-    "2015-10-06": {
-      "sweetbun": 1, 
-      "barrucadu": 1, 
-      "Alan": 1, 
-      "hayashi": 3, 
-      "Mathison": 1, 
-      "frogba": 3, 
-      "liamfraser": 1, 
-      "_46": 2, 
-      "AlfBot275": 1, 
-      "LordAro": 1, 
-      "bjs": 3
+    "2015-12-11": {
+      "hayashi": 1
     }, 
-    "2015-10-01": {
-      "hayashi": 1, 
-      "Mathison": 1, 
-      "bjs": 2, 
-      "Speed`": 1
-    }, 
-    "2015-05-19": {
-      "barrucadu": 2, 
-      "averyprettycat": 1, 
-      "liamfraser": 1, 
-      "Taneb": 1, 
-      "icydoge": 1
-    }, 
-    "2015-10-03": {
-      "hayashi": 1, 
-      "barrucadu": 1, 
-      "bjs": 1, 
-      "icydoge": 1
-    }, 
-    "2015-10-02": {
-      "jameseb": 1, 
-      "icydoge": 1, 
-      "Alan": 4, 
-      "hayashi": 3, 
-      "Mathison": 1, 
-      "bjs": 1, 
-      "_46": 2, 
-      "DinCahill": 1
-    }, 
-    "2015-05-14": {
-      "sam_w": 1, 
-      "barrucadu": 2, 
-      "icydoge": 1, 
-      "_46": 1, 
-      "hayashi": 4, 
-      "Beornwulf": 2, 
-      "qlkzy": 1, 
-      "Adam_T": 1, 
-      "DinCahill": 2, 
-      "liamfraser": 4, 
-      "nitia": 1
-    }, 
-    "2015-05-15": {
-      "barrucadu": 3, 
-      "Taneb": 1, 
-      "hayashi": 2, 
-      "Beornwulf": 1, 
-      "liamfraser": 2, 
-      "LordAro": 1, 
-      "AlfBot275": 1
-    }, 
-    "2015-05-16": {
-      "barrucadu": 2, 
-      "sweetbun": 1, 
-      "Speed`": 1, 
-      "Taneb": 3
-    }, 
-    "2015-05-17": {
-      "hayashi": 5, 
-      "LloydW": 1, 
-      "liamfraser": 1, 
-      "Alan": 1, 
-      "Adam_T": 1
-    }, 
-    "2015-10-09": {
-      "mrfitzherbert": 1, 
-      "Speed`": 1, 
-      "Helzibah": 2, 
-      "hayashi": 1, 
-      "LordAro": 1, 
+    "2015-11-09": {
       "marilla": 1
     }, 
-    "2015-10-08": {
+    "2016-11-30": {
+      "hayashi": 5, 
+      "_25": 1, 
+      "ddm": 1, 
+      "nit18": 1
+    }, 
+    "2016-11-15": {
       "barrucadu": 1, 
-      "acid2000": 1, 
+      "sdhand": 2, 
       "_46": 1, 
-      "hayashi": 2, 
-      "liamfraser": 1, 
-      "LordAro": 1, 
-      "bjs": 1
-    }, 
-    "2015-05-12": {
-      "Haegin": 2, 
-      "Beornwulf": 1, 
-      "jameseb": 1, 
-      "_43bit": 1, 
-      "sam_w": 1, 
-      "Taneb": 1, 
-      "_46": 2, 
-      "Speed`": 1, 
-      "hayashi": 6, 
-      "Mathison": 1, 
-      "liamfraser": 1, 
-      "Nondeterminism": 1, 
-      "LordAro": 1, 
-      "AlfBot275": 1, 
-      "nitia": 1
-    }, 
-    "2015-05-13": {
-      "sam_w": 1, 
-      "jameseb": 1, 
-      "barrucadu": 2, 
-      "Taneb": 3, 
-      "Alan": 2, 
-      "hayashi": 3, 
-      "Beornwulf": 1, 
-      "liamfraser": 1, 
-      "LordAro": 2, 
-      "AlfBot275": 2
-    }, 
-    "2016-06-30": {
-      "LordAro": 1, 
-      "barrucadu": 1, 
-      "bjs": 1, 
-      "nitia": 1
-    }, 
-    "2016-02-09": {
-      "barrucadu": 2, 
-      "mrfitzherbert": 2, 
-      "Taneb": 1, 
-      "Alan": 4, 
-      "_46": 3, 
-      "LordAro": 2, 
-      "DinCahill": 1
-    }, 
-    "2016-02-08": {
-      "Sunshard": 1, 
-      "barrucadu": 2, 
-      "Taneb": 2, 
-      "Alan": 2, 
-      "hayashi": 1, 
-      "bjs": 4, 
-      "_46": 1, 
-      "lauren^": 1
-    }, 
-    "2016-10-25": {
-      "Rryy": 6, 
-      "Helzibah": 3, 
-      "jameseb": 1, 
-      "barrucadu": 1, 
-      "icydoge": 1, 
-      "sdhand": 16, 
-      "Taneb": 6, 
-      "Speed`": 1, 
-      "hayashi": 10, 
-      "Mathison": 4, 
-      "bjs": 5, 
       "Alfie275": 1, 
-      "ddm": 3, 
-      "LordAro": 2, 
-      "quoboo": 2, 
-      "marilla": 6, 
-      "eep": 6
-    }, 
-    "2016-02-01": {
-      "barrucadu": 3, 
-      "hayashi": 1, 
-      "Sourceless": 3, 
-      "sam_w": 1, 
-      "_46": 4
-    }, 
-    "2016-02-03": {
-      "Helzibah": 1, 
-      "_46": 2, 
-      "hayashi": 3, 
-      "frogba": 1, 
-      "bjs": 2, 
-      "Sunshard": 2
-    }, 
-    "2016-02-02": {
-      "icydoge": 1, 
-      "bjs": 1, 
-      "nitia": 1, 
-      "_46": 2, 
-      "Alan": 2
-    }, 
-    "2016-02-05": {
-      "hayashi": 2, 
-      "Alan": 1, 
-      "_46": 2
-    }, 
-    "2016-02-04": {
-      "Sourceless": 2, 
-      "barrucadu": 1, 
-      "mrfitzherbert": 1, 
-      "Taneb": 1, 
-      "_46": 5, 
-      "hayashi": 2, 
-      "Mathison": 1, 
-      "sweetbun": 1, 
-      "bjs": 1
+      "ddm": 2, 
+      "LordAro": 1
     }, 
     "2016-02-07": {
-      "barrucadu": 2, 
-      "DinCahill": 1, 
-      "frogba": 1, 
-      "bjs": 3
-    }, 
-    "2016-02-06": {
-      "barrucadu": 2, 
-      "icydoge": 1, 
-      "bjs": 1, 
-      "_46": 2
+      "marilla": 1
     }
   }, 
   "latest_date": "2016-11-30", 
   "eeps_all_time": {
-    "entity_": 22, 
-    "laser`": 14, 
-    "nit19": 1, 
-    "entity": 3, 
-    "Luke__": 1, 
-    "PartTimeLurker": 4, 
-    "gavinatkinson": 2, 
-    "mcmuffinsplease": 1, 
-    "eun": 3, 
-    "nyte": 1, 
-    "prettygreat_": 1, 
-    "KappaBot": 3, 
-    "prettygreat": 12, 
-    "_46rack": 1, 
-    "eurodoge": 1, 
-    "bamberbiz": 4, 
-    "Jixun": 4, 
-    "Manguise": 7, 
-    "sweetbun": 127, 
-    "nit1a": 4, 
-    "nit18": 4, 
-    "adamttemp": 1, 
-    "lupine": 17, 
-    "hunt": 2, 
-    "eep": 236, 
-    "__ddm__[self]": 2, 
-    "wish": 2, 
-    "sam[w]": 7, 
-    "dpk": 33, 
-    "MobileRaedwulf": 8, 
-    "PfoD": 29, 
-    "sam_w": 43, 
-    "jixun": 1, 
-    "likzo": 2, 
-    "eep_": 8, 
-    "j6mes": 7, 
-    "Frankablu": 5, 
-    "Rryyp": 1, 
-    "barrucadu": 632, 
-    "Alan": 297, 
-    "m_pod": 1, 
-    "Alfie275": 95, 
-    "ddm": 275, 
-    "LordAro": 378, 
-    "tbrb": 2, 
-    "Sourceless": 15, 
-    "Jixun_pc": 1, 
-    "monotoni": 2, 
-    "jameseb": 45, 
-    "mshenrick": 1, 
-    "Sunshard": 13, 
-    "JokerPajamas": 1, 
-    "escproxy": 1, 
-    "alfioemanuele": 1, 
-    "neoncontrails": 2, 
-    "tinyhippo": 1, 
-    "CamJ256": 2, 
-    "obf": 2, 
-    "mrfitzherbert": 44, 
-    "Helzibah": 167, 
-    "liamfraser_": 1, 
-    "mrfitzwhabert": 1, 
-    "tommylommykins": 18, 
-    "mrkwse": 2, 
-    "quoboo": 102, 
-    "daeghnao": 11, 
-    "RushGeno": 1, 
-    "Mathison": 101, 
+    "PfoD": 2, 
+    "eeeep": 1, 
+    "Taneb": 34, 
+    "eep": 120, 
+    "eep_": 9, 
     "TheRealEep": 1, 
-    "bjs": 290, 
-    "Adam_T": 4, 
-    "Top_Cat": 3, 
-    "HackSocRoom": 4, 
-    "Egon_": 1, 
-    "deddm": 3, 
-    "Atkrye": 1, 
-    "MattWithOneT": 2, 
-    "_26": 1, 
-    "averyprettycat": 1, 
-    "_25": 5, 
-    "mpod": 12, 
-    "trebekbot": 1, 
-    "icydoge": 239, 
-    "_46": 749, 
-    "Taneb": 318, 
-    "hayashi": 1432, 
-    "yukibot": 5, 
-    "oop": 2, 
-    "_43bit": 1, 
-    "asciid": 1, 
-    "SunFrame": 1, 
-    "aims": 4, 
-    "undeddm": 2, 
+    "bjs": 14, 
+    "HackSocDoom": 2, 
+    "barrucadu": 15, 
+    "Alan": 6, 
+    "m_pod": 1, 
+    "Alfie275": 6, 
+    "ddm": 84, 
+    "LordAro": 36, 
+    "AlfBot275": 6, 
+    "_25": 1, 
+    "mpod": 4, 
+    "sam_w": 5, 
+    "jameseb": 1, 
+    "Rryyp": 1, 
+    "icydoge": 12, 
+    "_46": 19, 
+    "hayashi": 280, 
+    "Manguise": 4, 
+    "yukibot": 2, 
+    "sweetbun": 2, 
+    "oop": 1, 
+    "nit1a": 2, 
+    "DinCahill": 3, 
+    "Tinned_Tuna": 2, 
+    "nit18": 1, 
+    "marilla": 9, 
+    "nitia": 46, 
+    "Rryy": 17, 
+    "mrfitzherbert": 1, 
+    "qlkzy": 3, 
+    "hunt": 1, 
+    "sdhand": 177, 
+    "Helzibah": 5, 
+    "LightningPanda": 2, 
+    "__ddm__[self]": 2, 
+    "quoboo": 19, 
+    "sam[w]": 5, 
     "slash-nick": 1, 
-    "LloydW": 10, 
-    "Haegin": 4, 
-    "eeeep": 3, 
-    "Guest97414": 1, 
-    "qlkzy": 58, 
-    "Ajsdf": 1, 
-    "Skeflas": 13, 
-    "HackSocDoom": 3, 
-    "RagingGrim": 1, 
-    "c4sper": 3, 
-    "julian-": 3, 
-    "frogba": 42, 
-    "liamfraser": 175, 
-    "AlfBot275": 117, 
-    "ilyagetready": 1, 
-    "Nondeterminism": 4, 
-    "\\27": 1, 
-    "webpigeon2": 1, 
-    "lauren^": 5, 
-    "Speed`": 108, 
-    "Dazzozo": 1, 
-    "Tinned_Tuna": 12, 
-    "tommylom1ykins": 1, 
-    "marilla": 137, 
-    "nitia": 178, 
-    "Rryy": 61, 
-    "Oliver__________": 2, 
-    "sdhand": 401, 
-    "acid2000": 1, 
-    "LightningPanda": 1, 
-    "Beornwulf": 42, 
-    "asweetbun": 1, 
-    "DinCahill": 69, 
-    "sam[0]": 44
+    "sam[0]": 19
   }, 
   "earliest_date": "2015-03-04"
 }

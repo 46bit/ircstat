@@ -111,9 +111,13 @@ if __name__ == "__main__":
 
       deduped_nick = dedupe[log_item.nick] if log_item.nick in dedupe else log_item.nick
 
-      if "eep" in log_item.text:
+      eep_regex = "([^a-z]|^)eep([^a-z]|$)"
+      if re.match(eep_regex, log_item.text, re.IGNORECASE): # "eep" in log_item.text:
           eeps_all_time[deduped_nick] += 1
           eeps_by_day[date][deduped_nick] += 1
+      # if deduped_nick == "eep":
+      #     eeps_all_time[deduped_nick + "-posts"] += 1
+      #     eeps_by_day[date][deduped_nick + "-posts"] += 1
   sys.stderr.write("\n")
 
   # drop_nicks = []
